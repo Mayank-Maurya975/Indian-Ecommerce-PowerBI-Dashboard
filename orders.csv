@@ -1,0 +1,2001 @@
+OrderID,CustomerID,OrderDate,City,State,PaymentMode,OrderStatus
+1,890,2024-02-27,Lucknow,Tamil Nadu,COD,Returned
+2,879,2024-05-13,Ahmedabad,West Bengal,Card,Shipped
+3,576,2024-10-31,Bengaluru,Tamil Nadu,Card,Returned
+4,971,2024-09-09,Bengaluru,Kerala,Wallet,Shipped
+5,1211,2024-08-30,Delhi,Gujarat,UPI,Shipped
+6,79,2025-04-04,Chennai,Gujarat,Card,Returned
+7,1263,2024-03-08,Ahmedabad,Karnataka,UPI,Returned
+8,1076,2025-04-11,Chennai,Gujarat,Card,Cancelled
+9,982,2025-04-30,Mumbai,Kerala,NetBanking,Delivered
+10,226,2024-12-26,Chennai,Telangana,COD,Cancelled
+11,857,2026-02-16,Ahmedabad,Telangana,UPI,Shipped
+12,2,2024-03-31,Mumbai,Telangana,Card,Cancelled
+13,574,2025-06-16,Kolkata,Karnataka,NetBanking,Shipped
+14,1007,2024-11-03,Hyderabad,Telangana,COD,Delivered
+15,1371,2024-05-28,Mumbai,Kerala,Card,Cancelled
+16,741,2025-02-22,Kolkata,Kerala,Wallet,Cancelled
+17,1332,2024-10-19,Chennai,Gujarat,Wallet,Returned
+18,218,2024-05-18,Delhi,West Bengal,UPI,Delivered
+19,1341,2025-10-11,Ahmedabad,Gujarat,NetBanking,Delivered
+20,1120,2024-05-05,Kolkata,Telangana,COD,Returned
+21,1093,2024-09-12,Delhi,Maharashtra,Card,Shipped
+22,1128,2025-04-22,Chennai,Kerala,COD,Cancelled
+23,1290,2025-05-23,Bengaluru,Rajasthan,UPI,Returned
+24,1073,2025-04-23,Kochi,Maharashtra,Card,Cancelled
+25,265,2026-02-01,Chennai,Maharashtra,Wallet,Delivered
+26,390,2026-01-29,Jaipur,UP,Wallet,Delivered
+27,897,2024-08-06,Kochi,Rajasthan,Wallet,Returned
+28,1244,2025-04-04,Chennai,Gujarat,Card,Delivered
+29,1172,2024-07-31,Ahmedabad,West Bengal,UPI,Returned
+30,1450,2025-07-18,Kochi,Tamil Nadu,COD,Shipped
+31,1451,2024-12-18,Chennai,Kerala,UPI,Shipped
+32,94,2024-10-05,Kochi,Gujarat,COD,Delivered
+33,304,2025-12-04,Chennai,Delhi,COD,Delivered
+34,510,2025-12-07,Ahmedabad,Kerala,UPI,Delivered
+35,712,2025-12-14,Kolkata,Telangana,COD,Delivered
+36,1125,2026-02-10,Chennai,Delhi,NetBanking,Cancelled
+37,118,2025-01-16,Mumbai,Telangana,Card,Cancelled
+38,525,2024-08-17,Mumbai,Kerala,Wallet,Delivered
+39,783,2026-01-23,Chennai,West Bengal,Wallet,Shipped
+40,452,2025-05-16,Hyderabad,Tamil Nadu,Card,Returned
+41,914,2024-07-27,Ahmedabad,Rajasthan,COD,Shipped
+42,192,2025-06-23,Lucknow,Delhi,NetBanking,Shipped
+43,387,2024-08-17,Kolkata,UP,Card,Cancelled
+44,636,2024-03-11,Delhi,Delhi,NetBanking,Shipped
+45,294,2024-04-30,Bengaluru,Rajasthan,Card,Returned
+46,825,2025-12-10,Bengaluru,Kerala,Card,Delivered
+47,205,2025-10-28,Jaipur,Rajasthan,UPI,Delivered
+48,1320,2024-03-03,Mumbai,Delhi,Card,Delivered
+49,293,2024-11-19,Kolkata,Maharashtra,UPI,Delivered
+50,694,2025-08-27,Bengaluru,Gujarat,Card,Returned
+51,910,2025-09-17,Delhi,Tamil Nadu,COD,Returned
+52,500,2024-07-26,Mumbai,Kerala,COD,Delivered
+53,92,2024-03-11,Bengaluru,Kerala,COD,Delivered
+54,851,2025-07-26,Delhi,Maharashtra,Card,Delivered
+55,875,2024-10-08,Jaipur,Delhi,COD,Cancelled
+56,1402,2024-10-07,Jaipur,Karnataka,NetBanking,Shipped
+57,460,2024-06-10,Bengaluru,Tamil Nadu,COD,Delivered
+58,684,2025-11-10,Bengaluru,Telangana,UPI,Delivered
+59,310,2025-10-30,Delhi,Rajasthan,Wallet,Cancelled
+60,372,2025-10-25,Jaipur,Delhi,COD,Cancelled
+61,213,2025-02-09,Chennai,UP,COD,Cancelled
+62,157,2026-02-16,Mumbai,Delhi,Card,Cancelled
+63,800,2024-07-19,Lucknow,UP,UPI,Delivered
+64,876,2025-10-02,Chennai,Delhi,UPI,Cancelled
+65,373,2024-06-28,Jaipur,Telangana,COD,Returned
+66,986,2025-04-28,Jaipur,West Bengal,COD,Shipped
+67,504,2025-12-19,Jaipur,Rajasthan,Wallet,Returned
+68,1094,2025-08-23,Lucknow,Kerala,Wallet,Shipped
+69,172,2025-03-18,Kolkata,Rajasthan,Wallet,Shipped
+70,179,2026-02-07,Ahmedabad,Telangana,UPI,Shipped
+71,743,2024-03-07,Kochi,UP,Card,Delivered
+72,716,2024-04-20,Hyderabad,Delhi,COD,Returned
+73,1130,2024-07-15,Jaipur,Gujarat,Card,Shipped
+74,283,2024-04-16,Bengaluru,Delhi,NetBanking,Delivered
+75,870,2026-01-31,Hyderabad,Maharashtra,UPI,Delivered
+76,1217,2025-06-21,Delhi,Maharashtra,Card,Cancelled
+77,162,2024-07-12,Ahmedabad,Karnataka,UPI,Returned
+78,374,2024-07-21,Lucknow,Delhi,Wallet,Cancelled
+79,843,2025-06-14,Hyderabad,UP,UPI,Cancelled
+80,320,2024-06-11,Mumbai,Maharashtra,Wallet,Shipped
+81,329,2025-07-18,Mumbai,Rajasthan,NetBanking,Returned
+82,1457,2025-09-08,Chennai,West Bengal,Wallet,Cancelled
+83,466,2026-02-14,Jaipur,Delhi,COD,Delivered
+84,774,2025-08-06,Delhi,Gujarat,NetBanking,Delivered
+85,804,2024-09-30,Delhi,Kerala,Wallet,Delivered
+86,960,2026-01-28,Lucknow,Telangana,NetBanking,Returned
+87,112,2024-08-05,Hyderabad,Rajasthan,Card,Cancelled
+88,214,2024-06-09,Bengaluru,Telangana,Wallet,Cancelled
+89,491,2024-03-18,Chennai,Delhi,Wallet,Delivered
+90,434,2024-04-25,Kolkata,Maharashtra,COD,Shipped
+91,414,2025-09-05,Mumbai,Gujarat,COD,Delivered
+92,1157,2025-09-24,Mumbai,West Bengal,NetBanking,Delivered
+93,645,2024-04-08,Bengaluru,Tamil Nadu,UPI,Cancelled
+94,816,2024-12-04,Kochi,Gujarat,COD,Returned
+95,266,2025-02-17,Bengaluru,Telangana,NetBanking,Delivered
+96,308,2025-07-17,Mumbai,West Bengal,NetBanking,Returned
+97,77,2025-10-11,Chennai,Delhi,Card,Returned
+98,1282,2024-05-09,Bengaluru,Gujarat,Card,Shipped
+99,1028,2024-08-01,Kochi,West Bengal,Wallet,Cancelled
+100,269,2025-05-22,Hyderabad,Tamil Nadu,COD,Returned
+101,1460,2024-03-30,Jaipur,Gujarat,Card,Delivered
+102,1162,2024-07-24,Lucknow,Karnataka,UPI,Shipped
+103,1121,2024-12-31,Bengaluru,UP,UPI,Returned
+104,348,2025-01-05,Chennai,Delhi,UPI,Cancelled
+105,745,2025-10-01,Hyderabad,Karnataka,UPI,Shipped
+106,944,2026-02-15,Chennai,UP,COD,Returned
+107,288,2025-12-15,Bengaluru,West Bengal,NetBanking,Delivered
+108,588,2025-02-25,Jaipur,Rajasthan,Wallet,Shipped
+109,752,2025-05-15,Kochi,West Bengal,COD,Cancelled
+110,1398,2024-05-14,Jaipur,Kerala,NetBanking,Cancelled
+111,88,2026-01-17,Kolkata,Maharashtra,Card,Delivered
+112,216,2024-07-26,Chennai,Rajasthan,Card,Returned
+113,457,2024-05-03,Jaipur,UP,UPI,Cancelled
+114,960,2025-06-10,Kochi,UP,UPI,Delivered
+115,1499,2024-08-21,Bengaluru,Rajasthan,NetBanking,Shipped
+116,674,2025-04-05,Bengaluru,Telangana,COD,Returned
+117,1439,2024-09-23,Lucknow,Karnataka,COD,Returned
+118,1117,2024-03-29,Delhi,UP,Card,Shipped
+119,1164,2025-01-11,Mumbai,West Bengal,NetBanking,Delivered
+120,881,2025-02-23,Lucknow,Gujarat,UPI,Shipped
+121,1401,2024-03-13,Jaipur,Tamil Nadu,COD,Shipped
+122,291,2024-05-14,Bengaluru,Tamil Nadu,NetBanking,Delivered
+123,1459,2024-12-20,Lucknow,Rajasthan,Wallet,Shipped
+124,532,2026-01-04,Delhi,Maharashtra,UPI,Returned
+125,609,2025-02-03,Delhi,Gujarat,COD,Returned
+126,974,2025-06-26,Kochi,Delhi,NetBanking,Cancelled
+127,1169,2026-01-28,Jaipur,Maharashtra,Wallet,Shipped
+128,1481,2024-05-08,Kolkata,West Bengal,Card,Cancelled
+129,649,2025-12-30,Mumbai,Delhi,NetBanking,Shipped
+130,649,2025-07-14,Bengaluru,Rajasthan,COD,Delivered
+131,258,2025-05-25,Lucknow,West Bengal,UPI,Delivered
+132,385,2024-09-29,Jaipur,Kerala,Card,Returned
+133,713,2024-09-27,Ahmedabad,Gujarat,Wallet,Delivered
+134,746,2025-03-04,Mumbai,Tamil Nadu,COD,Delivered
+135,1023,2026-02-04,Lucknow,Rajasthan,NetBanking,Cancelled
+136,1111,2025-02-13,Jaipur,Kerala,COD,Delivered
+137,940,2024-08-17,Jaipur,Telangana,Card,Shipped
+138,893,2025-08-27,Jaipur,Tamil Nadu,NetBanking,Cancelled
+139,1271,2026-02-06,Bengaluru,Karnataka,UPI,Delivered
+140,34,2025-12-15,Kolkata,Rajasthan,UPI,Returned
+141,1116,2025-11-18,Bengaluru,UP,Wallet,Delivered
+142,594,2026-01-02,Jaipur,Gujarat,Card,Returned
+143,781,2025-09-05,Bengaluru,Gujarat,NetBanking,Delivered
+144,951,2025-02-12,Jaipur,Rajasthan,UPI,Cancelled
+145,1040,2024-10-05,Chennai,Tamil Nadu,COD,Cancelled
+146,1379,2025-04-18,Ahmedabad,Maharashtra,NetBanking,Delivered
+147,54,2024-03-05,Delhi,Telangana,Wallet,Cancelled
+148,350,2025-01-27,Kolkata,Rajasthan,Card,Returned
+149,1263,2024-09-03,Jaipur,Maharashtra,Wallet,Returned
+150,1304,2024-06-29,Jaipur,Delhi,NetBanking,Cancelled
+151,325,2025-08-01,Jaipur,Gujarat,UPI,Shipped
+152,243,2025-07-19,Kolkata,Rajasthan,COD,Shipped
+153,418,2025-01-14,Bengaluru,Karnataka,UPI,Returned
+154,1288,2024-03-01,Kolkata,Delhi,UPI,Delivered
+155,784,2025-09-26,Mumbai,Delhi,NetBanking,Cancelled
+156,491,2024-08-28,Ahmedabad,Tamil Nadu,Card,Shipped
+157,534,2025-03-12,Mumbai,Tamil Nadu,UPI,Shipped
+158,48,2025-11-22,Kolkata,Karnataka,UPI,Returned
+159,252,2025-10-21,Bengaluru,Delhi,COD,Cancelled
+160,191,2024-08-21,Bengaluru,UP,COD,Shipped
+161,207,2025-03-25,Lucknow,Maharashtra,NetBanking,Delivered
+162,1282,2025-07-01,Bengaluru,Gujarat,NetBanking,Returned
+163,1298,2025-01-05,Lucknow,Delhi,Card,Cancelled
+164,366,2024-02-29,Kolkata,West Bengal,UPI,Delivered
+165,711,2025-02-04,Lucknow,West Bengal,Wallet,Delivered
+166,1069,2024-07-30,Chennai,Karnataka,Card,Delivered
+167,48,2025-08-20,Kochi,Kerala,Card,Shipped
+168,236,2025-02-26,Ahmedabad,Maharashtra,COD,Shipped
+169,171,2024-10-01,Delhi,Tamil Nadu,COD,Returned
+170,189,2024-09-10,Hyderabad,Kerala,COD,Returned
+171,894,2025-07-10,Kochi,Rajasthan,Card,Cancelled
+172,406,2024-08-14,Chennai,Rajasthan,UPI,Cancelled
+173,422,2024-08-06,Lucknow,Rajasthan,NetBanking,Returned
+174,557,2025-10-21,Hyderabad,West Bengal,UPI,Returned
+175,410,2025-05-03,Kolkata,Telangana,COD,Delivered
+176,343,2025-05-24,Mumbai,Kerala,COD,Returned
+177,1237,2024-12-15,Kochi,Telangana,NetBanking,Delivered
+178,369,2024-06-15,Hyderabad,Rajasthan,Card,Cancelled
+179,149,2024-10-27,Ahmedabad,Telangana,COD,Shipped
+180,251,2025-01-05,Mumbai,Telangana,UPI,Cancelled
+181,954,2024-09-24,Kolkata,Telangana,Card,Delivered
+182,581,2025-03-19,Kolkata,Gujarat,Wallet,Shipped
+183,1149,2024-06-03,Chennai,West Bengal,UPI,Returned
+184,892,2026-01-17,Hyderabad,Telangana,Card,Shipped
+185,1012,2024-04-09,Lucknow,Maharashtra,COD,Returned
+186,255,2024-06-20,Lucknow,Delhi,Wallet,Cancelled
+187,785,2025-10-16,Ahmedabad,West Bengal,UPI,Cancelled
+188,1319,2024-03-08,Kolkata,Maharashtra,NetBanking,Cancelled
+189,825,2024-07-02,Mumbai,Kerala,Wallet,Delivered
+190,1321,2025-01-29,Mumbai,Karnataka,NetBanking,Delivered
+191,1482,2025-04-19,Chennai,Tamil Nadu,COD,Cancelled
+192,164,2025-04-03,Kochi,Telangana,NetBanking,Delivered
+193,612,2025-03-27,Lucknow,UP,UPI,Cancelled
+194,211,2025-11-12,Mumbai,Gujarat,UPI,Delivered
+195,216,2024-07-10,Hyderabad,Rajasthan,Card,Shipped
+196,392,2024-05-19,Hyderabad,Kerala,UPI,Delivered
+197,89,2024-11-10,Bengaluru,Maharashtra,COD,Delivered
+198,675,2024-11-15,Kolkata,Rajasthan,COD,Shipped
+199,1195,2024-07-09,Lucknow,Karnataka,Card,Cancelled
+200,1197,2024-07-19,Jaipur,UP,UPI,Shipped
+201,979,2025-10-02,Lucknow,Tamil Nadu,COD,Returned
+202,189,2024-10-07,Chennai,Tamil Nadu,UPI,Cancelled
+203,497,2025-09-12,Ahmedabad,Karnataka,UPI,Returned
+204,436,2024-04-20,Mumbai,Gujarat,NetBanking,Returned
+205,999,2024-08-29,Bengaluru,Telangana,Card,Cancelled
+206,1452,2025-01-03,Lucknow,Delhi,Wallet,Delivered
+207,449,2024-07-01,Hyderabad,Rajasthan,NetBanking,Shipped
+208,385,2025-04-03,Bengaluru,Tamil Nadu,NetBanking,Shipped
+209,630,2026-01-21,Kolkata,Karnataka,Card,Returned
+210,226,2024-06-07,Ahmedabad,Maharashtra,NetBanking,Shipped
+211,59,2024-11-18,Lucknow,Kerala,NetBanking,Cancelled
+212,243,2024-11-16,Kochi,Karnataka,COD,Returned
+213,309,2024-09-23,Jaipur,Kerala,NetBanking,Cancelled
+214,904,2024-04-13,Chennai,Telangana,UPI,Delivered
+215,784,2025-12-14,Jaipur,Gujarat,COD,Shipped
+216,362,2025-04-06,Kolkata,Tamil Nadu,Wallet,Returned
+217,888,2025-08-03,Bengaluru,Maharashtra,Card,Delivered
+218,236,2024-09-30,Mumbai,Maharashtra,Wallet,Cancelled
+219,135,2024-10-20,Kochi,Karnataka,COD,Shipped
+220,1433,2025-11-15,Jaipur,Rajasthan,NetBanking,Delivered
+221,1417,2024-10-01,Chennai,UP,Card,Shipped
+222,712,2024-09-14,Chennai,West Bengal,COD,Delivered
+223,380,2024-05-25,Kochi,West Bengal,NetBanking,Cancelled
+224,489,2026-01-23,Delhi,Telangana,UPI,Shipped
+225,681,2024-08-28,Lucknow,Delhi,UPI,Returned
+226,685,2025-05-02,Mumbai,Delhi,COD,Delivered
+227,1392,2024-08-11,Mumbai,West Bengal,COD,Returned
+228,3,2025-10-08,Lucknow,Gujarat,NetBanking,Delivered
+229,36,2024-04-05,Kolkata,Tamil Nadu,Card,Shipped
+230,193,2024-07-18,Bengaluru,Tamil Nadu,COD,Returned
+231,719,2025-07-05,Kochi,Tamil Nadu,NetBanking,Cancelled
+232,940,2025-02-26,Mumbai,Telangana,COD,Cancelled
+233,1360,2025-08-02,Kolkata,UP,UPI,Cancelled
+234,1064,2026-01-21,Mumbai,Delhi,NetBanking,Shipped
+235,291,2025-12-25,Hyderabad,UP,UPI,Shipped
+236,1426,2025-10-02,Jaipur,Telangana,Card,Delivered
+237,774,2024-09-04,Bengaluru,Tamil Nadu,Wallet,Returned
+238,359,2025-08-11,Chennai,Telangana,COD,Returned
+239,855,2025-10-14,Chennai,Tamil Nadu,Card,Delivered
+240,1066,2025-10-04,Hyderabad,West Bengal,UPI,Returned
+241,1161,2025-05-29,Hyderabad,Tamil Nadu,UPI,Delivered
+242,1404,2025-07-13,Delhi,UP,Card,Cancelled
+243,1144,2025-11-18,Delhi,Tamil Nadu,NetBanking,Cancelled
+244,604,2024-04-25,Mumbai,UP,UPI,Shipped
+245,1215,2024-12-04,Bengaluru,Maharashtra,NetBanking,Cancelled
+246,882,2024-02-24,Hyderabad,Maharashtra,UPI,Cancelled
+247,718,2024-07-09,Chennai,Kerala,Wallet,Shipped
+248,1461,2024-05-17,Chennai,Delhi,Card,Returned
+249,166,2025-10-10,Chennai,Gujarat,UPI,Returned
+250,510,2025-02-16,Jaipur,Rajasthan,NetBanking,Delivered
+251,619,2024-11-12,Kolkata,Tamil Nadu,Card,Returned
+252,661,2026-01-14,Kolkata,Delhi,Card,Cancelled
+253,853,2024-07-06,Kochi,Gujarat,COD,Cancelled
+254,609,2024-05-16,Kolkata,UP,Wallet,Shipped
+255,895,2025-03-09,Bengaluru,Delhi,Wallet,Returned
+256,642,2026-01-29,Kochi,Telangana,NetBanking,Cancelled
+257,956,2025-05-01,Jaipur,Rajasthan,NetBanking,Delivered
+258,55,2025-09-13,Jaipur,Karnataka,Card,Cancelled
+259,1189,2024-10-24,Kochi,Telangana,Card,Cancelled
+260,805,2024-04-13,Delhi,Rajasthan,UPI,Returned
+261,943,2025-08-02,Mumbai,Karnataka,UPI,Cancelled
+262,220,2025-12-15,Hyderabad,West Bengal,UPI,Cancelled
+263,987,2025-09-20,Hyderabad,Maharashtra,UPI,Delivered
+264,420,2026-02-06,Kochi,Delhi,Wallet,Returned
+265,458,2024-07-07,Delhi,Tamil Nadu,COD,Delivered
+266,1278,2025-06-29,Ahmedabad,Karnataka,UPI,Delivered
+267,1237,2024-07-24,Bengaluru,Kerala,UPI,Shipped
+268,213,2024-09-15,Lucknow,Maharashtra,Wallet,Returned
+269,114,2025-03-25,Bengaluru,Tamil Nadu,NetBanking,Returned
+270,482,2024-08-25,Kochi,Tamil Nadu,Wallet,Returned
+271,1264,2025-12-23,Bengaluru,Rajasthan,Card,Delivered
+272,291,2024-08-26,Ahmedabad,Delhi,Wallet,Shipped
+273,984,2025-06-20,Chennai,Tamil Nadu,UPI,Returned
+274,1368,2025-03-01,Chennai,Rajasthan,NetBanking,Delivered
+275,854,2025-06-08,Jaipur,Delhi,UPI,Cancelled
+276,247,2025-06-01,Kolkata,Rajasthan,UPI,Cancelled
+277,1322,2024-03-24,Kolkata,UP,UPI,Cancelled
+278,959,2024-07-10,Lucknow,Tamil Nadu,UPI,Shipped
+279,1026,2025-02-19,Kochi,Gujarat,COD,Returned
+280,129,2025-07-28,Delhi,Delhi,COD,Cancelled
+281,1465,2025-06-03,Delhi,Tamil Nadu,COD,Returned
+282,1322,2024-04-28,Lucknow,Rajasthan,NetBanking,Shipped
+283,1452,2025-09-30,Kochi,Kerala,COD,Shipped
+284,664,2026-02-02,Kolkata,West Bengal,COD,Returned
+285,93,2024-04-28,Mumbai,Delhi,Card,Delivered
+286,218,2025-12-31,Lucknow,UP,COD,Shipped
+287,216,2024-10-18,Delhi,Rajasthan,NetBanking,Delivered
+288,1254,2024-04-22,Chennai,Karnataka,UPI,Delivered
+289,767,2025-05-16,Kolkata,Maharashtra,Card,Cancelled
+290,1431,2024-06-08,Lucknow,Rajasthan,Card,Shipped
+291,518,2024-09-06,Lucknow,UP,COD,Shipped
+292,332,2024-09-12,Jaipur,Kerala,Card,Delivered
+293,50,2025-10-07,Bengaluru,Gujarat,UPI,Shipped
+294,737,2024-02-24,Jaipur,West Bengal,Wallet,Delivered
+295,380,2025-02-01,Kochi,UP,Card,Shipped
+296,971,2025-09-25,Kochi,Telangana,COD,Shipped
+297,899,2024-04-27,Jaipur,Rajasthan,UPI,Delivered
+298,1060,2024-06-28,Chennai,Karnataka,UPI,Returned
+299,106,2024-10-12,Kolkata,Kerala,COD,Delivered
+300,594,2024-10-05,Chennai,Rajasthan,COD,Delivered
+301,590,2024-07-29,Bengaluru,Kerala,Wallet,Shipped
+302,1252,2025-08-02,Kochi,Tamil Nadu,NetBanking,Delivered
+303,1429,2025-08-31,Bengaluru,West Bengal,NetBanking,Cancelled
+304,62,2025-12-18,Mumbai,Telangana,NetBanking,Cancelled
+305,686,2024-09-11,Mumbai,Delhi,Card,Cancelled
+306,128,2025-12-29,Ahmedabad,UP,UPI,Delivered
+307,145,2025-02-07,Jaipur,West Bengal,Wallet,Delivered
+308,981,2025-09-05,Delhi,Tamil Nadu,UPI,Delivered
+309,1018,2024-03-26,Kochi,Gujarat,COD,Returned
+310,622,2025-06-22,Ahmedabad,Maharashtra,UPI,Delivered
+311,1095,2024-09-06,Kolkata,Rajasthan,UPI,Returned
+312,793,2024-04-12,Jaipur,Delhi,NetBanking,Returned
+313,283,2025-09-03,Bengaluru,UP,UPI,Cancelled
+314,397,2025-02-13,Hyderabad,Rajasthan,UPI,Shipped
+315,189,2024-10-13,Kolkata,Maharashtra,Card,Returned
+316,1164,2025-08-21,Mumbai,Maharashtra,Card,Delivered
+317,117,2024-05-07,Delhi,UP,Card,Cancelled
+318,644,2024-04-03,Hyderabad,West Bengal,Card,Cancelled
+319,1242,2024-06-30,Jaipur,UP,UPI,Delivered
+320,513,2024-05-07,Kochi,Gujarat,NetBanking,Cancelled
+321,909,2024-10-01,Chennai,Telangana,Wallet,Cancelled
+322,501,2025-12-19,Kochi,Tamil Nadu,COD,Delivered
+323,710,2024-04-14,Jaipur,West Bengal,NetBanking,Cancelled
+324,417,2024-05-09,Delhi,Kerala,Card,Cancelled
+325,432,2025-09-07,Bengaluru,Telangana,Card,Delivered
+326,1431,2024-10-16,Lucknow,UP,UPI,Delivered
+327,70,2025-07-13,Chennai,Tamil Nadu,Wallet,Returned
+328,174,2024-12-22,Mumbai,Tamil Nadu,Wallet,Returned
+329,39,2025-07-10,Jaipur,Rajasthan,NetBanking,Delivered
+330,422,2024-10-05,Jaipur,Delhi,NetBanking,Delivered
+331,625,2025-12-26,Mumbai,Kerala,COD,Delivered
+332,689,2025-11-03,Chennai,West Bengal,Card,Delivered
+333,1487,2025-02-02,Kolkata,Rajasthan,NetBanking,Delivered
+334,1134,2024-06-09,Jaipur,Tamil Nadu,Wallet,Returned
+335,1173,2025-04-28,Kolkata,Kerala,COD,Shipped
+336,958,2025-03-15,Ahmedabad,Delhi,UPI,Cancelled
+337,562,2026-01-17,Bengaluru,Gujarat,Wallet,Cancelled
+338,1170,2025-01-29,Jaipur,Maharashtra,Wallet,Cancelled
+339,551,2025-02-23,Chennai,West Bengal,UPI,Delivered
+340,1165,2024-12-29,Hyderabad,Tamil Nadu,Card,Returned
+341,36,2025-06-06,Lucknow,Maharashtra,NetBanking,Delivered
+342,984,2025-02-20,Kochi,Gujarat,NetBanking,Delivered
+343,163,2025-10-04,Chennai,West Bengal,Wallet,Cancelled
+344,903,2024-04-24,Delhi,Tamil Nadu,COD,Cancelled
+345,261,2025-07-09,Ahmedabad,Delhi,Card,Delivered
+346,235,2024-10-14,Mumbai,Delhi,Wallet,Returned
+347,650,2025-10-04,Mumbai,Kerala,Card,Delivered
+348,528,2024-11-10,Mumbai,Telangana,Wallet,Delivered
+349,481,2025-10-25,Hyderabad,Karnataka,UPI,Returned
+350,1047,2024-06-13,Bengaluru,Gujarat,Card,Cancelled
+351,761,2025-09-25,Jaipur,Karnataka,NetBanking,Cancelled
+352,51,2024-07-14,Hyderabad,West Bengal,COD,Cancelled
+353,1336,2025-04-11,Hyderabad,UP,COD,Delivered
+354,755,2024-08-01,Mumbai,Tamil Nadu,Card,Delivered
+355,1248,2024-06-06,Ahmedabad,Telangana,Wallet,Cancelled
+356,776,2024-09-26,Kolkata,Maharashtra,Card,Returned
+357,161,2025-12-14,Bengaluru,Gujarat,Wallet,Returned
+358,249,2025-08-23,Kochi,Maharashtra,Wallet,Returned
+359,1075,2025-12-25,Kochi,UP,COD,Cancelled
+360,1179,2024-09-05,Chennai,Gujarat,COD,Shipped
+361,473,2025-02-23,Lucknow,Telangana,UPI,Shipped
+362,840,2025-05-19,Hyderabad,Karnataka,COD,Delivered
+363,1339,2025-02-23,Lucknow,West Bengal,Card,Returned
+364,471,2025-04-22,Kolkata,Delhi,Wallet,Shipped
+365,1381,2025-04-11,Kolkata,Delhi,Wallet,Cancelled
+366,700,2024-12-08,Hyderabad,Karnataka,UPI,Returned
+367,1035,2025-04-25,Delhi,West Bengal,NetBanking,Shipped
+368,930,2024-08-21,Mumbai,Delhi,UPI,Returned
+369,1136,2024-11-14,Lucknow,Karnataka,Card,Delivered
+370,50,2025-05-05,Delhi,Karnataka,Card,Returned
+371,726,2025-04-26,Delhi,Rajasthan,Wallet,Shipped
+372,601,2026-02-17,Bengaluru,Telangana,COD,Delivered
+373,152,2024-04-05,Hyderabad,UP,NetBanking,Returned
+374,593,2025-05-10,Lucknow,Delhi,Card,Delivered
+375,16,2024-07-23,Kolkata,West Bengal,COD,Returned
+376,657,2025-03-13,Lucknow,Delhi,Wallet,Cancelled
+377,476,2024-05-28,Chennai,UP,COD,Delivered
+378,1061,2025-09-18,Kochi,West Bengal,Wallet,Returned
+379,662,2024-12-07,Jaipur,Telangana,Card,Shipped
+380,1498,2024-04-01,Ahmedabad,Rajasthan,Wallet,Cancelled
+381,1261,2025-09-29,Hyderabad,Karnataka,COD,Cancelled
+382,243,2024-08-06,Chennai,Tamil Nadu,NetBanking,Returned
+383,347,2024-10-05,Chennai,Tamil Nadu,Wallet,Delivered
+384,1365,2024-10-13,Chennai,Delhi,UPI,Shipped
+385,1042,2025-09-06,Delhi,Maharashtra,Wallet,Delivered
+386,1102,2025-08-24,Ahmedabad,Maharashtra,NetBanking,Delivered
+387,417,2025-03-03,Chennai,West Bengal,NetBanking,Returned
+388,259,2025-08-05,Lucknow,Tamil Nadu,UPI,Delivered
+389,886,2025-05-19,Lucknow,Tamil Nadu,UPI,Shipped
+390,1499,2024-11-30,Bengaluru,Telangana,UPI,Shipped
+391,670,2024-05-05,Delhi,Kerala,COD,Cancelled
+392,1292,2025-05-28,Kochi,Karnataka,COD,Delivered
+393,206,2025-05-07,Kochi,Telangana,Card,Delivered
+394,1285,2025-11-29,Mumbai,Gujarat,Card,Returned
+395,1380,2024-10-01,Ahmedabad,Tamil Nadu,NetBanking,Shipped
+396,384,2025-06-29,Lucknow,Tamil Nadu,Card,Shipped
+397,182,2025-11-30,Kochi,Gujarat,UPI,Returned
+398,1005,2024-04-27,Kochi,West Bengal,Card,Shipped
+399,857,2024-03-29,Chennai,West Bengal,NetBanking,Shipped
+400,715,2025-12-03,Lucknow,Kerala,Card,Cancelled
+401,599,2024-10-13,Lucknow,UP,NetBanking,Cancelled
+402,986,2025-08-28,Chennai,Karnataka,Card,Delivered
+403,860,2024-12-09,Lucknow,Telangana,Card,Returned
+404,361,2024-06-16,Lucknow,Telangana,UPI,Cancelled
+405,816,2026-02-01,Delhi,UP,NetBanking,Returned
+406,481,2026-01-22,Mumbai,Tamil Nadu,COD,Shipped
+407,125,2025-04-12,Kochi,Telangana,COD,Cancelled
+408,802,2025-04-15,Lucknow,Rajasthan,NetBanking,Cancelled
+409,550,2024-04-14,Lucknow,Gujarat,COD,Delivered
+410,917,2024-12-30,Jaipur,Gujarat,Wallet,Shipped
+411,423,2025-08-20,Bengaluru,West Bengal,Wallet,Cancelled
+412,1239,2024-06-30,Kochi,Maharashtra,UPI,Returned
+413,1444,2024-05-21,Hyderabad,Telangana,Wallet,Delivered
+414,101,2025-12-20,Kochi,Gujarat,COD,Shipped
+415,1098,2024-07-28,Jaipur,Gujarat,COD,Shipped
+416,679,2025-03-07,Jaipur,Gujarat,Wallet,Shipped
+417,74,2024-03-03,Mumbai,Kerala,UPI,Returned
+418,87,2025-06-29,Delhi,Tamil Nadu,COD,Delivered
+419,1294,2024-10-11,Ahmedabad,Maharashtra,COD,Delivered
+420,1343,2025-03-11,Jaipur,Delhi,COD,Delivered
+421,152,2024-05-07,Kochi,Rajasthan,UPI,Delivered
+422,1239,2025-08-26,Delhi,Karnataka,Wallet,Returned
+423,1241,2024-09-04,Chennai,Telangana,NetBanking,Delivered
+424,562,2024-12-24,Lucknow,Gujarat,UPI,Cancelled
+425,1181,2025-12-21,Lucknow,Rajasthan,COD,Returned
+426,456,2024-05-24,Jaipur,Kerala,COD,Returned
+427,1440,2024-12-06,Kochi,Kerala,Card,Returned
+428,1018,2024-03-07,Jaipur,Telangana,Wallet,Delivered
+429,459,2025-05-27,Kolkata,Maharashtra,NetBanking,Shipped
+430,758,2025-05-21,Lucknow,West Bengal,UPI,Cancelled
+431,295,2025-01-24,Bengaluru,Karnataka,Wallet,Shipped
+432,1004,2024-09-18,Kolkata,Gujarat,UPI,Shipped
+433,1263,2025-04-06,Lucknow,Kerala,Wallet,Shipped
+434,1011,2024-04-19,Chennai,Rajasthan,COD,Cancelled
+435,75,2024-07-22,Hyderabad,West Bengal,Wallet,Returned
+436,550,2024-02-24,Ahmedabad,Kerala,NetBanking,Returned
+437,1336,2025-01-04,Ahmedabad,Telangana,NetBanking,Returned
+438,1137,2025-07-29,Bengaluru,Karnataka,NetBanking,Delivered
+439,261,2025-03-09,Mumbai,Delhi,Wallet,Delivered
+440,405,2024-08-07,Lucknow,Karnataka,UPI,Returned
+441,350,2025-07-10,Kochi,UP,Card,Returned
+442,19,2025-04-02,Chennai,Karnataka,NetBanking,Cancelled
+443,556,2026-01-11,Kochi,Telangana,Wallet,Cancelled
+444,1332,2025-09-18,Delhi,Delhi,COD,Shipped
+445,1464,2025-11-08,Hyderabad,Kerala,Wallet,Cancelled
+446,948,2025-06-16,Ahmedabad,Telangana,Card,Shipped
+447,1465,2025-08-08,Lucknow,Maharashtra,COD,Returned
+448,308,2024-08-20,Lucknow,Karnataka,UPI,Cancelled
+449,385,2026-02-06,Ahmedabad,Karnataka,Wallet,Returned
+450,194,2025-01-22,Mumbai,West Bengal,NetBanking,Shipped
+451,718,2024-04-27,Kochi,Gujarat,COD,Delivered
+452,563,2024-09-03,Chennai,Rajasthan,Wallet,Cancelled
+453,1279,2025-03-01,Jaipur,Tamil Nadu,Wallet,Shipped
+454,1214,2024-05-08,Delhi,Karnataka,Card,Cancelled
+455,539,2024-08-19,Kolkata,Karnataka,Card,Returned
+456,1179,2025-01-22,Kolkata,West Bengal,COD,Returned
+457,345,2024-09-20,Mumbai,Gujarat,Card,Delivered
+458,301,2025-11-09,Delhi,Delhi,NetBanking,Delivered
+459,160,2025-01-15,Mumbai,Delhi,Wallet,Returned
+460,1362,2025-04-29,Lucknow,Telangana,COD,Delivered
+461,1148,2024-10-22,Jaipur,Rajasthan,NetBanking,Returned
+462,639,2025-02-16,Kochi,Telangana,Wallet,Delivered
+463,439,2025-10-30,Delhi,Tamil Nadu,Card,Returned
+464,905,2025-09-14,Lucknow,Tamil Nadu,UPI,Returned
+465,714,2025-12-17,Delhi,Maharashtra,COD,Returned
+466,709,2026-01-05,Jaipur,Gujarat,Wallet,Shipped
+467,767,2025-03-16,Delhi,Maharashtra,Card,Returned
+468,1078,2025-02-22,Ahmedabad,Maharashtra,Wallet,Cancelled
+469,193,2025-01-20,Hyderabad,Tamil Nadu,Wallet,Delivered
+470,560,2025-11-01,Mumbai,Tamil Nadu,NetBanking,Returned
+471,1425,2024-04-03,Chennai,Tamil Nadu,UPI,Delivered
+472,1245,2025-06-15,Lucknow,UP,Card,Returned
+473,1118,2025-12-13,Bengaluru,Maharashtra,COD,Delivered
+474,1461,2025-11-07,Delhi,Delhi,Card,Delivered
+475,245,2025-04-23,Mumbai,UP,UPI,Cancelled
+476,1115,2024-05-28,Chennai,Gujarat,Wallet,Delivered
+477,1377,2025-01-24,Hyderabad,Delhi,Wallet,Cancelled
+478,30,2025-07-31,Jaipur,Rajasthan,UPI,Delivered
+479,1028,2024-09-03,Delhi,Tamil Nadu,UPI,Shipped
+480,92,2025-05-18,Chennai,West Bengal,Card,Returned
+481,1302,2024-08-14,Mumbai,Tamil Nadu,COD,Cancelled
+482,700,2024-06-18,Lucknow,West Bengal,UPI,Returned
+483,239,2024-05-19,Bengaluru,Delhi,UPI,Shipped
+484,1211,2025-01-09,Mumbai,Delhi,UPI,Shipped
+485,768,2025-12-03,Lucknow,Karnataka,Card,Cancelled
+486,1316,2026-01-16,Ahmedabad,Delhi,COD,Delivered
+487,1446,2025-03-13,Chennai,Delhi,COD,Shipped
+488,647,2025-09-19,Jaipur,Gujarat,Card,Cancelled
+489,363,2024-09-10,Chennai,Tamil Nadu,NetBanking,Cancelled
+490,1004,2024-05-23,Hyderabad,West Bengal,COD,Cancelled
+491,1072,2025-12-07,Lucknow,Delhi,UPI,Returned
+492,1102,2024-07-27,Kolkata,Gujarat,NetBanking,Cancelled
+493,1397,2025-12-11,Chennai,Gujarat,COD,Cancelled
+494,1052,2024-05-21,Ahmedabad,Tamil Nadu,Card,Returned
+495,65,2024-11-12,Bengaluru,Kerala,Card,Returned
+496,957,2024-07-11,Kolkata,Telangana,COD,Returned
+497,1206,2025-12-24,Mumbai,Telangana,UPI,Cancelled
+498,326,2024-02-27,Jaipur,UP,COD,Cancelled
+499,206,2025-12-13,Delhi,Telangana,COD,Shipped
+500,1120,2025-06-11,Delhi,Maharashtra,NetBanking,Returned
+501,1180,2025-10-18,Jaipur,Rajasthan,NetBanking,Shipped
+502,1482,2024-11-03,Hyderabad,West Bengal,COD,Returned
+503,822,2026-01-13,Chennai,Maharashtra,Card,Delivered
+504,873,2025-04-25,Chennai,West Bengal,NetBanking,Delivered
+505,1049,2024-08-04,Delhi,Tamil Nadu,Wallet,Shipped
+506,286,2025-09-22,Delhi,Telangana,UPI,Delivered
+507,290,2024-12-31,Hyderabad,UP,NetBanking,Shipped
+508,2,2025-06-04,Delhi,Gujarat,Card,Cancelled
+509,165,2024-12-29,Delhi,Gujarat,Card,Returned
+510,1484,2024-05-21,Ahmedabad,Delhi,Wallet,Cancelled
+511,978,2024-02-24,Delhi,Telangana,UPI,Returned
+512,1407,2025-09-04,Jaipur,Gujarat,NetBanking,Returned
+513,1447,2025-06-07,Ahmedabad,Karnataka,NetBanking,Shipped
+514,274,2025-01-09,Jaipur,Telangana,COD,Returned
+515,807,2025-10-22,Kochi,Karnataka,COD,Returned
+516,1202,2026-01-04,Mumbai,Gujarat,Wallet,Shipped
+517,756,2024-10-16,Hyderabad,Telangana,Wallet,Delivered
+518,1228,2025-11-05,Jaipur,Karnataka,Card,Shipped
+519,385,2025-07-14,Mumbai,Gujarat,COD,Returned
+520,696,2024-05-24,Jaipur,Delhi,NetBanking,Shipped
+521,638,2024-12-06,Jaipur,UP,UPI,Cancelled
+522,368,2025-04-25,Delhi,Rajasthan,Wallet,Delivered
+523,170,2025-06-09,Hyderabad,Karnataka,NetBanking,Delivered
+524,654,2024-08-01,Delhi,West Bengal,Wallet,Returned
+525,932,2026-01-21,Mumbai,UP,NetBanking,Returned
+526,621,2024-04-14,Jaipur,Tamil Nadu,UPI,Returned
+527,764,2025-07-17,Lucknow,Telangana,Wallet,Cancelled
+528,367,2024-06-12,Jaipur,Kerala,NetBanking,Delivered
+529,15,2024-07-21,Hyderabad,West Bengal,COD,Shipped
+530,1259,2025-07-30,Lucknow,Rajasthan,UPI,Returned
+531,82,2024-12-03,Bengaluru,UP,NetBanking,Cancelled
+532,1228,2024-04-10,Hyderabad,Tamil Nadu,NetBanking,Cancelled
+533,607,2026-01-10,Mumbai,Kerala,COD,Shipped
+534,731,2024-12-15,Jaipur,Maharashtra,NetBanking,Cancelled
+535,1303,2024-12-19,Mumbai,West Bengal,UPI,Cancelled
+536,1089,2024-03-27,Jaipur,Gujarat,Card,Delivered
+537,194,2025-08-19,Delhi,Delhi,NetBanking,Returned
+538,708,2024-11-26,Lucknow,West Bengal,Card,Returned
+539,157,2024-03-31,Hyderabad,Telangana,UPI,Shipped
+540,1483,2025-11-03,Bengaluru,Rajasthan,Wallet,Delivered
+541,1305,2025-01-29,Chennai,Rajasthan,NetBanking,Delivered
+542,527,2024-08-25,Bengaluru,Rajasthan,UPI,Shipped
+543,535,2025-09-25,Chennai,West Bengal,Wallet,Shipped
+544,101,2026-01-29,Hyderabad,West Bengal,NetBanking,Shipped
+545,563,2025-05-11,Delhi,Tamil Nadu,Wallet,Delivered
+546,817,2025-10-30,Delhi,Tamil Nadu,COD,Delivered
+547,425,2025-04-10,Mumbai,Rajasthan,Card,Cancelled
+548,948,2024-11-18,Kolkata,Telangana,UPI,Shipped
+549,38,2024-10-06,Hyderabad,Gujarat,UPI,Cancelled
+550,1248,2026-02-17,Lucknow,West Bengal,NetBanking,Cancelled
+551,797,2025-08-26,Lucknow,Kerala,UPI,Cancelled
+552,655,2025-02-01,Hyderabad,UP,Card,Returned
+553,432,2025-07-13,Kochi,Delhi,NetBanking,Cancelled
+554,67,2025-04-06,Kolkata,Karnataka,NetBanking,Cancelled
+555,426,2024-05-14,Kochi,Telangana,COD,Cancelled
+556,925,2025-01-06,Lucknow,Maharashtra,Card,Shipped
+557,721,2025-11-19,Kolkata,Rajasthan,NetBanking,Delivered
+558,1140,2024-12-05,Lucknow,Gujarat,NetBanking,Shipped
+559,1244,2025-03-12,Bengaluru,Karnataka,NetBanking,Shipped
+560,227,2024-09-22,Kolkata,Tamil Nadu,Card,Shipped
+561,1127,2025-04-04,Jaipur,Telangana,Card,Returned
+562,572,2025-10-24,Hyderabad,Telangana,UPI,Cancelled
+563,1097,2025-07-17,Kochi,Rajasthan,Card,Returned
+564,951,2025-07-09,Chennai,UP,Card,Shipped
+565,591,2025-04-03,Mumbai,Kerala,COD,Returned
+566,353,2025-12-21,Bengaluru,Rajasthan,Wallet,Returned
+567,841,2025-04-22,Ahmedabad,Maharashtra,Wallet,Shipped
+568,1249,2024-07-09,Kolkata,Kerala,UPI,Returned
+569,666,2024-03-13,Kolkata,Gujarat,Card,Returned
+570,187,2026-01-19,Hyderabad,Maharashtra,Wallet,Returned
+571,1048,2025-09-06,Ahmedabad,Delhi,NetBanking,Cancelled
+572,359,2024-10-21,Lucknow,Gujarat,COD,Shipped
+573,133,2024-12-15,Mumbai,Gujarat,Wallet,Returned
+574,502,2025-06-03,Kolkata,UP,Card,Shipped
+575,1025,2025-06-05,Bengaluru,West Bengal,COD,Shipped
+576,947,2024-10-26,Bengaluru,Maharashtra,UPI,Returned
+577,963,2025-08-04,Jaipur,Karnataka,NetBanking,Cancelled
+578,248,2025-08-22,Kolkata,Kerala,UPI,Returned
+579,1487,2025-06-25,Mumbai,Tamil Nadu,NetBanking,Delivered
+580,819,2025-02-25,Kochi,UP,NetBanking,Delivered
+581,299,2024-06-04,Chennai,West Bengal,UPI,Shipped
+582,846,2025-02-28,Hyderabad,Delhi,Card,Returned
+583,542,2024-09-21,Bengaluru,Telangana,UPI,Returned
+584,1007,2026-02-14,Ahmedabad,Tamil Nadu,COD,Cancelled
+585,911,2026-01-24,Hyderabad,UP,COD,Cancelled
+586,74,2025-10-19,Delhi,Delhi,Wallet,Cancelled
+587,453,2024-03-16,Hyderabad,West Bengal,COD,Cancelled
+588,1467,2024-12-29,Delhi,West Bengal,COD,Returned
+589,901,2026-02-18,Chennai,Delhi,Card,Shipped
+590,599,2025-11-02,Jaipur,Tamil Nadu,Card,Delivered
+591,1195,2024-09-22,Chennai,Delhi,Wallet,Delivered
+592,746,2024-11-10,Kochi,Kerala,NetBanking,Returned
+593,349,2025-11-13,Hyderabad,Delhi,Wallet,Cancelled
+594,767,2025-08-07,Jaipur,UP,Card,Returned
+595,992,2024-08-16,Jaipur,Maharashtra,UPI,Cancelled
+596,634,2024-10-06,Ahmedabad,Gujarat,Card,Cancelled
+597,1493,2025-11-03,Bengaluru,Gujarat,COD,Returned
+598,1167,2025-06-03,Mumbai,Kerala,Card,Shipped
+599,1361,2025-02-25,Mumbai,Rajasthan,UPI,Cancelled
+600,138,2025-07-22,Chennai,Kerala,Wallet,Delivered
+601,915,2024-04-16,Kolkata,Kerala,Card,Shipped
+602,375,2024-11-07,Ahmedabad,Gujarat,NetBanking,Shipped
+603,1248,2024-03-31,Chennai,Kerala,COD,Delivered
+604,131,2024-08-31,Delhi,Kerala,COD,Delivered
+605,467,2024-09-18,Ahmedabad,West Bengal,Wallet,Returned
+606,202,2025-06-08,Kochi,Maharashtra,COD,Delivered
+607,980,2024-09-07,Bengaluru,UP,UPI,Returned
+608,205,2024-09-08,Kochi,West Bengal,Card,Returned
+609,1166,2024-12-22,Mumbai,West Bengal,NetBanking,Delivered
+610,1317,2025-05-17,Ahmedabad,West Bengal,Wallet,Returned
+611,516,2024-02-19,Jaipur,West Bengal,COD,Returned
+612,362,2025-11-26,Hyderabad,Kerala,NetBanking,Cancelled
+613,614,2025-12-10,Chennai,Kerala,Card,Cancelled
+614,1389,2024-11-26,Kochi,Kerala,COD,Returned
+615,374,2024-06-12,Lucknow,Maharashtra,COD,Returned
+616,335,2025-07-10,Delhi,Karnataka,NetBanking,Cancelled
+617,908,2024-05-25,Hyderabad,Kerala,Card,Shipped
+618,475,2024-06-09,Ahmedabad,Tamil Nadu,Wallet,Cancelled
+619,1087,2025-01-11,Lucknow,Karnataka,COD,Shipped
+620,1377,2025-09-25,Delhi,Telangana,Card,Shipped
+621,352,2025-03-30,Delhi,West Bengal,Card,Cancelled
+622,971,2025-07-31,Kolkata,Rajasthan,COD,Shipped
+623,967,2024-11-14,Chennai,Telangana,Card,Cancelled
+624,1489,2025-01-25,Hyderabad,Telangana,NetBanking,Cancelled
+625,1154,2025-04-29,Jaipur,Rajasthan,UPI,Returned
+626,838,2024-04-15,Hyderabad,Delhi,NetBanking,Cancelled
+627,1443,2024-03-09,Ahmedabad,Gujarat,COD,Cancelled
+628,49,2025-03-07,Hyderabad,Rajasthan,NetBanking,Cancelled
+629,1147,2025-09-12,Ahmedabad,Gujarat,Wallet,Returned
+630,219,2024-11-25,Bengaluru,Gujarat,Card,Cancelled
+631,1478,2025-06-24,Kolkata,UP,UPI,Returned
+632,1447,2026-01-23,Lucknow,Gujarat,COD,Returned
+633,208,2024-04-19,Mumbai,Telangana,COD,Cancelled
+634,583,2025-05-12,Bengaluru,UP,Card,Delivered
+635,848,2025-01-16,Delhi,Delhi,Wallet,Cancelled
+636,410,2025-09-28,Kochi,Karnataka,NetBanking,Shipped
+637,1173,2025-01-19,Kochi,Tamil Nadu,Wallet,Cancelled
+638,45,2026-01-25,Delhi,Karnataka,COD,Cancelled
+639,440,2025-05-20,Delhi,Telangana,NetBanking,Shipped
+640,742,2025-06-04,Hyderabad,Gujarat,COD,Cancelled
+641,48,2025-10-29,Delhi,Karnataka,NetBanking,Returned
+642,997,2025-03-30,Mumbai,Kerala,UPI,Cancelled
+643,1159,2024-03-06,Jaipur,Maharashtra,Wallet,Cancelled
+644,1008,2025-08-23,Chennai,West Bengal,COD,Delivered
+645,1158,2024-05-06,Bengaluru,Kerala,UPI,Shipped
+646,180,2025-07-28,Kolkata,UP,Wallet,Shipped
+647,1401,2024-05-03,Jaipur,Tamil Nadu,NetBanking,Returned
+648,1333,2024-07-23,Hyderabad,Karnataka,Card,Cancelled
+649,1081,2025-05-28,Jaipur,Maharashtra,NetBanking,Cancelled
+650,1278,2024-02-25,Jaipur,Maharashtra,UPI,Shipped
+651,875,2025-01-14,Delhi,Tamil Nadu,Card,Cancelled
+652,938,2025-08-17,Ahmedabad,West Bengal,COD,Shipped
+653,304,2024-08-30,Ahmedabad,Tamil Nadu,Card,Delivered
+654,1093,2024-03-16,Kolkata,Maharashtra,Card,Cancelled
+655,671,2024-04-29,Hyderabad,Gujarat,Card,Shipped
+656,335,2024-12-25,Jaipur,Tamil Nadu,Card,Shipped
+657,56,2025-02-16,Delhi,UP,UPI,Returned
+658,910,2024-03-16,Ahmedabad,Rajasthan,UPI,Returned
+659,818,2025-05-13,Ahmedabad,Gujarat,NetBanking,Delivered
+660,359,2024-05-24,Kochi,West Bengal,Wallet,Delivered
+661,430,2024-08-03,Bengaluru,UP,Wallet,Cancelled
+662,851,2025-01-08,Ahmedabad,Gujarat,UPI,Cancelled
+663,523,2025-06-22,Kochi,Karnataka,NetBanking,Delivered
+664,779,2024-02-26,Jaipur,Rajasthan,UPI,Cancelled
+665,635,2025-02-22,Bengaluru,Rajasthan,COD,Shipped
+666,173,2026-02-06,Jaipur,UP,UPI,Cancelled
+667,663,2025-12-12,Mumbai,Delhi,Card,Shipped
+668,19,2025-09-19,Delhi,Kerala,Card,Shipped
+669,963,2026-01-30,Mumbai,Maharashtra,Wallet,Shipped
+670,601,2025-12-26,Hyderabad,West Bengal,NetBanking,Shipped
+671,354,2025-04-23,Delhi,Kerala,Card,Shipped
+672,225,2025-02-26,Delhi,Maharashtra,NetBanking,Shipped
+673,827,2024-12-28,Hyderabad,Tamil Nadu,Wallet,Cancelled
+674,53,2024-03-19,Hyderabad,Maharashtra,NetBanking,Delivered
+675,835,2024-07-15,Mumbai,Kerala,NetBanking,Shipped
+676,206,2024-07-29,Mumbai,Telangana,Card,Delivered
+677,136,2025-04-23,Bengaluru,UP,NetBanking,Returned
+678,902,2025-08-21,Delhi,West Bengal,UPI,Cancelled
+679,962,2025-06-20,Chennai,Delhi,COD,Cancelled
+680,1369,2025-11-08,Bengaluru,UP,NetBanking,Shipped
+681,450,2024-06-26,Kochi,Delhi,Card,Shipped
+682,169,2025-12-25,Bengaluru,Rajasthan,COD,Delivered
+683,464,2024-10-31,Chennai,Delhi,COD,Cancelled
+684,947,2026-02-15,Kolkata,Kerala,Wallet,Cancelled
+685,672,2024-07-02,Jaipur,Telangana,Card,Delivered
+686,1295,2025-03-19,Mumbai,Gujarat,Card,Delivered
+687,1300,2024-07-14,Mumbai,Gujarat,Card,Returned
+688,24,2025-01-14,Kolkata,UP,NetBanking,Cancelled
+689,1288,2024-08-29,Kolkata,Rajasthan,NetBanking,Shipped
+690,1273,2025-05-28,Chennai,Kerala,NetBanking,Delivered
+691,1343,2024-12-01,Kochi,Telangana,COD,Shipped
+692,699,2024-11-06,Lucknow,Kerala,NetBanking,Delivered
+693,702,2026-01-03,Kochi,Tamil Nadu,UPI,Cancelled
+694,1316,2025-04-30,Mumbai,Kerala,Card,Delivered
+695,937,2024-10-08,Bengaluru,Karnataka,Wallet,Cancelled
+696,712,2024-06-27,Chennai,UP,NetBanking,Delivered
+697,374,2025-07-19,Jaipur,Kerala,Card,Shipped
+698,455,2026-01-15,Mumbai,Gujarat,COD,Shipped
+699,1087,2025-09-17,Kochi,Maharashtra,Wallet,Cancelled
+700,472,2025-08-24,Kochi,Delhi,COD,Shipped
+701,1394,2024-05-31,Delhi,West Bengal,Card,Shipped
+702,1249,2025-08-25,Jaipur,Gujarat,COD,Delivered
+703,608,2025-04-04,Jaipur,Kerala,NetBanking,Returned
+704,660,2025-06-12,Delhi,Tamil Nadu,UPI,Delivered
+705,1451,2024-11-02,Kochi,Tamil Nadu,Card,Delivered
+706,841,2024-04-19,Delhi,Delhi,NetBanking,Shipped
+707,802,2024-10-24,Delhi,Rajasthan,NetBanking,Shipped
+708,718,2024-10-30,Bengaluru,Gujarat,COD,Shipped
+709,253,2025-04-05,Kolkata,Delhi,Card,Returned
+710,1377,2024-07-13,Chennai,Telangana,UPI,Delivered
+711,638,2025-08-05,Kochi,Karnataka,Wallet,Returned
+712,1353,2024-10-13,Lucknow,Tamil Nadu,UPI,Returned
+713,145,2024-07-25,Hyderabad,Tamil Nadu,UPI,Returned
+714,232,2024-11-06,Lucknow,Rajasthan,Wallet,Shipped
+715,1417,2026-02-14,Lucknow,Tamil Nadu,Card,Delivered
+716,1499,2024-05-19,Kolkata,West Bengal,COD,Shipped
+717,1013,2025-12-30,Jaipur,Rajasthan,UPI,Delivered
+718,1483,2024-12-01,Chennai,Tamil Nadu,Wallet,Cancelled
+719,1366,2025-04-23,Chennai,Telangana,UPI,Delivered
+720,1461,2024-06-01,Lucknow,Gujarat,Wallet,Returned
+721,1211,2024-10-02,Jaipur,Tamil Nadu,UPI,Returned
+722,1243,2025-09-15,Kolkata,Rajasthan,Wallet,Returned
+723,1233,2024-04-02,Bengaluru,West Bengal,UPI,Delivered
+724,489,2024-06-18,Hyderabad,West Bengal,Wallet,Returned
+725,1472,2025-03-28,Mumbai,Telangana,NetBanking,Returned
+726,1071,2025-09-28,Mumbai,Rajasthan,NetBanking,Delivered
+727,1162,2024-09-27,Delhi,Maharashtra,COD,Delivered
+728,845,2024-12-14,Mumbai,UP,COD,Cancelled
+729,705,2026-01-18,Hyderabad,Gujarat,COD,Returned
+730,665,2024-04-07,Lucknow,Tamil Nadu,Card,Shipped
+731,1121,2025-09-12,Hyderabad,Rajasthan,COD,Shipped
+732,183,2025-07-14,Hyderabad,Telangana,Wallet,Shipped
+733,627,2025-01-08,Bengaluru,Karnataka,NetBanking,Cancelled
+734,1019,2025-11-16,Delhi,Rajasthan,Card,Cancelled
+735,995,2026-02-12,Hyderabad,Telangana,NetBanking,Cancelled
+736,346,2024-07-31,Hyderabad,Maharashtra,UPI,Shipped
+737,636,2025-10-06,Kochi,Kerala,COD,Shipped
+738,1267,2025-04-01,Bengaluru,Gujarat,UPI,Delivered
+739,1225,2026-02-16,Jaipur,Tamil Nadu,Card,Cancelled
+740,725,2025-08-17,Jaipur,Delhi,NetBanking,Delivered
+741,1257,2024-12-15,Kolkata,Karnataka,COD,Shipped
+742,84,2025-05-17,Ahmedabad,Kerala,Card,Cancelled
+743,1013,2024-03-16,Ahmedabad,Gujarat,Card,Shipped
+744,1327,2025-05-14,Ahmedabad,Delhi,UPI,Cancelled
+745,43,2024-10-25,Kolkata,UP,NetBanking,Returned
+746,1129,2025-09-10,Kolkata,Gujarat,NetBanking,Shipped
+747,1190,2025-08-03,Jaipur,West Bengal,NetBanking,Cancelled
+748,746,2026-02-11,Chennai,Rajasthan,COD,Cancelled
+749,656,2024-10-16,Kochi,Telangana,UPI,Shipped
+750,1439,2025-01-13,Ahmedabad,Kerala,Wallet,Shipped
+751,1040,2024-05-27,Lucknow,Kerala,COD,Delivered
+752,467,2025-10-29,Hyderabad,Kerala,Card,Returned
+753,1177,2024-11-20,Mumbai,UP,Wallet,Returned
+754,1211,2025-07-12,Jaipur,Karnataka,Card,Delivered
+755,919,2025-09-14,Kochi,Maharashtra,COD,Returned
+756,303,2026-02-11,Bengaluru,Telangana,UPI,Cancelled
+757,517,2025-09-24,Mumbai,West Bengal,NetBanking,Returned
+758,274,2026-02-09,Jaipur,Gujarat,NetBanking,Cancelled
+759,1428,2025-08-23,Chennai,Telangana,Card,Returned
+760,1106,2024-07-15,Kolkata,Telangana,UPI,Delivered
+761,734,2026-02-17,Kolkata,Karnataka,UPI,Delivered
+762,848,2025-08-14,Delhi,Gujarat,Card,Shipped
+763,61,2024-08-22,Lucknow,Karnataka,COD,Delivered
+764,827,2024-05-25,Kolkata,Rajasthan,NetBanking,Returned
+765,972,2026-02-01,Delhi,Telangana,Card,Delivered
+766,728,2025-01-02,Delhi,Rajasthan,COD,Returned
+767,378,2024-05-21,Chennai,Rajasthan,Card,Shipped
+768,1326,2025-02-12,Bengaluru,Telangana,NetBanking,Delivered
+769,528,2025-08-08,Mumbai,West Bengal,UPI,Delivered
+770,765,2026-01-18,Bengaluru,Delhi,UPI,Delivered
+771,670,2024-02-23,Jaipur,Tamil Nadu,UPI,Cancelled
+772,354,2024-04-30,Ahmedabad,West Bengal,NetBanking,Shipped
+773,448,2025-08-20,Hyderabad,Karnataka,Card,Cancelled
+774,363,2025-09-28,Lucknow,Delhi,Wallet,Shipped
+775,63,2025-05-19,Kolkata,Maharashtra,Wallet,Delivered
+776,597,2025-01-03,Bengaluru,Telangana,Card,Shipped
+777,1020,2024-05-31,Ahmedabad,West Bengal,Card,Cancelled
+778,1349,2025-05-29,Kochi,Rajasthan,NetBanking,Delivered
+779,1136,2026-01-03,Bengaluru,Telangana,Card,Cancelled
+780,491,2024-07-12,Lucknow,Gujarat,NetBanking,Delivered
+781,121,2025-02-19,Lucknow,West Bengal,UPI,Delivered
+782,1342,2025-12-29,Hyderabad,Kerala,Wallet,Returned
+783,1318,2025-08-31,Ahmedabad,Tamil Nadu,COD,Shipped
+784,406,2025-05-22,Chennai,Rajasthan,NetBanking,Returned
+785,169,2025-03-11,Lucknow,Maharashtra,NetBanking,Delivered
+786,1150,2025-01-13,Lucknow,West Bengal,NetBanking,Cancelled
+787,589,2025-07-12,Mumbai,Kerala,UPI,Shipped
+788,629,2024-05-20,Kolkata,West Bengal,Wallet,Shipped
+789,643,2025-12-06,Mumbai,Kerala,UPI,Delivered
+790,789,2024-12-25,Ahmedabad,Telangana,Wallet,Delivered
+791,889,2026-01-19,Kochi,Kerala,Card,Cancelled
+792,1432,2026-01-16,Mumbai,Gujarat,UPI,Returned
+793,454,2024-08-27,Hyderabad,Karnataka,Card,Returned
+794,1170,2024-09-17,Kolkata,Maharashtra,UPI,Returned
+795,1412,2024-09-16,Bengaluru,Tamil Nadu,UPI,Shipped
+796,678,2025-12-25,Delhi,Rajasthan,Card,Cancelled
+797,92,2025-04-05,Delhi,Delhi,Wallet,Shipped
+798,1370,2025-11-16,Chennai,Rajasthan,Wallet,Cancelled
+799,1339,2024-09-15,Chennai,Rajasthan,UPI,Returned
+800,773,2025-04-17,Chennai,Gujarat,NetBanking,Cancelled
+801,22,2025-10-25,Jaipur,Maharashtra,NetBanking,Shipped
+802,1413,2025-12-28,Ahmedabad,Karnataka,UPI,Delivered
+803,1001,2024-07-30,Bengaluru,Delhi,Wallet,Cancelled
+804,526,2024-08-08,Jaipur,Tamil Nadu,Wallet,Cancelled
+805,1168,2024-12-06,Chennai,Karnataka,UPI,Returned
+806,178,2024-09-12,Kochi,UP,Card,Shipped
+807,74,2025-08-02,Lucknow,UP,UPI,Delivered
+808,78,2024-10-10,Jaipur,Delhi,UPI,Delivered
+809,893,2024-10-23,Kolkata,Telangana,NetBanking,Shipped
+810,1223,2025-05-16,Mumbai,Kerala,Card,Shipped
+811,90,2025-01-09,Kolkata,Maharashtra,Card,Cancelled
+812,360,2024-11-01,Hyderabad,UP,Card,Delivered
+813,779,2025-03-25,Delhi,Tamil Nadu,Wallet,Delivered
+814,377,2024-10-06,Ahmedabad,Telangana,NetBanking,Delivered
+815,143,2025-05-15,Ahmedabad,West Bengal,Wallet,Cancelled
+816,330,2025-09-11,Delhi,Kerala,COD,Delivered
+817,1403,2024-06-12,Bengaluru,Rajasthan,Wallet,Delivered
+818,1476,2025-11-13,Delhi,Telangana,COD,Delivered
+819,213,2024-07-14,Ahmedabad,Maharashtra,NetBanking,Delivered
+820,120,2025-09-17,Jaipur,West Bengal,UPI,Shipped
+821,73,2025-11-23,Kolkata,Kerala,UPI,Delivered
+822,976,2025-12-14,Kolkata,Rajasthan,COD,Returned
+823,487,2025-05-24,Lucknow,West Bengal,COD,Cancelled
+824,932,2025-12-01,Lucknow,Delhi,NetBanking,Cancelled
+825,296,2024-10-05,Chennai,Delhi,NetBanking,Cancelled
+826,754,2024-08-01,Mumbai,Rajasthan,COD,Shipped
+827,942,2024-04-02,Jaipur,Kerala,Card,Returned
+828,1284,2024-06-26,Hyderabad,Gujarat,NetBanking,Returned
+829,944,2025-04-21,Lucknow,UP,NetBanking,Returned
+830,692,2025-02-25,Hyderabad,Rajasthan,Card,Shipped
+831,445,2024-10-27,Ahmedabad,West Bengal,Card,Cancelled
+832,1123,2025-06-07,Jaipur,Telangana,COD,Shipped
+833,290,2025-03-27,Lucknow,Karnataka,Wallet,Returned
+834,1278,2024-12-22,Jaipur,Maharashtra,Card,Shipped
+835,1130,2025-01-29,Delhi,Rajasthan,Wallet,Returned
+836,908,2024-08-21,Mumbai,Gujarat,NetBanking,Shipped
+837,1394,2024-11-24,Kolkata,Delhi,NetBanking,Shipped
+838,843,2024-07-22,Hyderabad,UP,Card,Shipped
+839,648,2025-07-01,Kolkata,West Bengal,Wallet,Delivered
+840,199,2026-01-11,Bengaluru,Karnataka,UPI,Delivered
+841,679,2024-04-13,Bengaluru,Telangana,COD,Shipped
+842,437,2024-07-22,Chennai,Karnataka,COD,Cancelled
+843,915,2025-10-08,Lucknow,Telangana,Card,Cancelled
+844,208,2024-12-25,Kochi,Delhi,Card,Shipped
+845,243,2025-04-19,Kochi,West Bengal,NetBanking,Shipped
+846,1132,2025-09-16,Lucknow,Tamil Nadu,Card,Delivered
+847,301,2025-12-29,Lucknow,Karnataka,UPI,Shipped
+848,969,2025-03-15,Jaipur,UP,Card,Delivered
+849,1410,2025-10-11,Hyderabad,UP,Wallet,Shipped
+850,41,2025-05-22,Lucknow,West Bengal,COD,Cancelled
+851,758,2024-05-16,Bengaluru,Delhi,Card,Cancelled
+852,807,2026-01-12,Delhi,Karnataka,Card,Cancelled
+853,1457,2024-12-14,Bengaluru,Telangana,Wallet,Returned
+854,1274,2024-03-06,Kolkata,Rajasthan,Card,Cancelled
+855,394,2024-11-03,Kochi,Tamil Nadu,Wallet,Delivered
+856,653,2025-07-04,Delhi,Maharashtra,Card,Cancelled
+857,920,2024-11-14,Jaipur,Telangana,UPI,Cancelled
+858,939,2025-12-22,Bengaluru,Telangana,Wallet,Delivered
+859,1279,2024-07-01,Mumbai,West Bengal,UPI,Cancelled
+860,409,2025-03-14,Lucknow,Rajasthan,NetBanking,Delivered
+861,1377,2026-01-30,Chennai,Rajasthan,COD,Cancelled
+862,870,2025-07-27,Jaipur,Telangana,Card,Cancelled
+863,1132,2024-11-12,Ahmedabad,UP,COD,Cancelled
+864,922,2024-05-14,Bengaluru,Telangana,Wallet,Delivered
+865,264,2024-03-13,Bengaluru,Gujarat,UPI,Shipped
+866,134,2025-03-07,Delhi,West Bengal,Card,Delivered
+867,20,2024-05-06,Mumbai,Telangana,Wallet,Delivered
+868,1194,2024-07-27,Lucknow,Telangana,UPI,Delivered
+869,1443,2024-04-16,Delhi,Gujarat,UPI,Shipped
+870,1471,2024-05-22,Bengaluru,Maharashtra,NetBanking,Shipped
+871,103,2024-09-21,Bengaluru,Rajasthan,COD,Shipped
+872,405,2025-06-20,Lucknow,West Bengal,Card,Returned
+873,1499,2024-12-09,Kolkata,Maharashtra,NetBanking,Shipped
+874,13,2025-07-22,Bengaluru,Delhi,Card,Cancelled
+875,1111,2024-07-15,Kolkata,Gujarat,UPI,Delivered
+876,384,2024-08-29,Hyderabad,Gujarat,Card,Returned
+877,1214,2025-11-30,Chennai,West Bengal,NetBanking,Cancelled
+878,874,2024-09-29,Chennai,Telangana,Card,Delivered
+879,1400,2025-12-20,Chennai,Tamil Nadu,Card,Delivered
+880,129,2024-04-22,Lucknow,Telangana,UPI,Returned
+881,1381,2024-05-10,Lucknow,Maharashtra,UPI,Cancelled
+882,741,2025-10-13,Kolkata,Karnataka,Wallet,Cancelled
+883,924,2025-01-10,Hyderabad,UP,COD,Returned
+884,1002,2024-12-22,Hyderabad,Kerala,Card,Shipped
+885,350,2025-10-12,Mumbai,Telangana,NetBanking,Returned
+886,665,2025-06-05,Jaipur,UP,NetBanking,Returned
+887,291,2024-07-24,Jaipur,Rajasthan,UPI,Shipped
+888,782,2025-01-08,Delhi,Rajasthan,COD,Delivered
+889,1356,2025-05-08,Delhi,Delhi,Wallet,Shipped
+890,195,2024-09-28,Mumbai,Rajasthan,NetBanking,Shipped
+891,691,2024-11-22,Ahmedabad,Maharashtra,NetBanking,Returned
+892,622,2024-07-30,Kochi,Tamil Nadu,Card,Shipped
+893,1243,2025-07-01,Lucknow,Rajasthan,NetBanking,Shipped
+894,1364,2025-07-02,Mumbai,Telangana,UPI,Delivered
+895,1446,2025-01-15,Lucknow,West Bengal,COD,Shipped
+896,1063,2024-10-16,Lucknow,Gujarat,NetBanking,Returned
+897,631,2024-03-03,Delhi,Telangana,COD,Returned
+898,250,2025-11-06,Kolkata,Delhi,Wallet,Cancelled
+899,1485,2025-02-02,Hyderabad,Delhi,COD,Returned
+900,37,2024-04-23,Lucknow,Telangana,NetBanking,Shipped
+901,669,2024-09-20,Ahmedabad,Telangana,NetBanking,Cancelled
+902,698,2025-09-09,Kolkata,Telangana,Card,Shipped
+903,1296,2025-01-13,Kolkata,Gujarat,Wallet,Shipped
+904,1001,2024-10-31,Kolkata,UP,UPI,Cancelled
+905,196,2025-07-26,Jaipur,Delhi,Wallet,Cancelled
+906,1084,2024-05-12,Lucknow,UP,Wallet,Cancelled
+907,921,2024-04-27,Jaipur,Gujarat,COD,Shipped
+908,121,2025-02-25,Lucknow,Gujarat,Card,Delivered
+909,730,2025-01-19,Kolkata,UP,Wallet,Shipped
+910,656,2024-11-24,Lucknow,Telangana,Wallet,Shipped
+911,386,2025-12-11,Kolkata,West Bengal,UPI,Cancelled
+912,400,2024-04-21,Kochi,Kerala,COD,Shipped
+913,867,2025-03-10,Mumbai,Tamil Nadu,COD,Shipped
+914,607,2024-07-15,Mumbai,Maharashtra,NetBanking,Delivered
+915,953,2025-03-02,Delhi,UP,NetBanking,Shipped
+916,910,2025-10-19,Hyderabad,Karnataka,COD,Returned
+917,406,2024-11-27,Kolkata,UP,COD,Shipped
+918,264,2025-10-11,Hyderabad,Maharashtra,UPI,Delivered
+919,1132,2025-01-18,Lucknow,Telangana,Card,Cancelled
+920,1127,2025-03-09,Mumbai,Rajasthan,COD,Returned
+921,669,2024-08-19,Kolkata,Maharashtra,COD,Cancelled
+922,1165,2025-09-20,Mumbai,Kerala,UPI,Shipped
+923,131,2025-07-11,Bengaluru,Delhi,Card,Delivered
+924,335,2025-08-07,Ahmedabad,Karnataka,COD,Cancelled
+925,167,2025-01-30,Jaipur,Telangana,UPI,Returned
+926,1117,2025-04-04,Mumbai,Kerala,NetBanking,Returned
+927,318,2026-01-30,Kochi,Karnataka,Card,Returned
+928,237,2024-07-30,Chennai,Gujarat,Card,Delivered
+929,1400,2025-12-10,Kochi,Maharashtra,UPI,Shipped
+930,87,2025-06-23,Mumbai,Gujarat,Card,Shipped
+931,1026,2024-07-08,Hyderabad,Telangana,NetBanking,Returned
+932,1045,2024-03-09,Chennai,UP,UPI,Returned
+933,140,2025-09-04,Mumbai,Gujarat,Wallet,Delivered
+934,471,2024-09-19,Kolkata,UP,UPI,Cancelled
+935,166,2026-02-06,Kolkata,Telangana,Wallet,Shipped
+936,436,2025-03-31,Delhi,Kerala,UPI,Cancelled
+937,1140,2024-11-17,Hyderabad,Kerala,NetBanking,Shipped
+938,1245,2024-09-12,Chennai,Telangana,Card,Cancelled
+939,805,2024-11-11,Bengaluru,Tamil Nadu,NetBanking,Delivered
+940,1236,2025-05-20,Kochi,Rajasthan,Card,Shipped
+941,86,2024-06-13,Jaipur,Karnataka,Card,Shipped
+942,612,2025-09-24,Ahmedabad,West Bengal,COD,Cancelled
+943,112,2025-06-07,Ahmedabad,West Bengal,COD,Shipped
+944,49,2025-07-26,Chennai,Maharashtra,Card,Shipped
+945,423,2025-01-25,Lucknow,Rajasthan,COD,Returned
+946,1233,2025-03-25,Delhi,UP,NetBanking,Cancelled
+947,509,2026-01-02,Bengaluru,West Bengal,UPI,Delivered
+948,1269,2024-03-21,Mumbai,Maharashtra,COD,Delivered
+949,912,2024-12-25,Jaipur,West Bengal,Card,Delivered
+950,754,2024-04-13,Ahmedabad,Gujarat,NetBanking,Cancelled
+951,574,2024-05-06,Jaipur,Maharashtra,COD,Delivered
+952,619,2024-06-20,Delhi,Tamil Nadu,NetBanking,Shipped
+953,1304,2024-06-21,Mumbai,UP,Card,Delivered
+954,177,2024-06-13,Ahmedabad,UP,Wallet,Cancelled
+955,47,2024-11-21,Kolkata,UP,UPI,Shipped
+956,134,2024-09-26,Jaipur,Rajasthan,UPI,Delivered
+957,886,2025-07-12,Lucknow,Rajasthan,Card,Delivered
+958,91,2025-10-01,Bengaluru,Tamil Nadu,COD,Returned
+959,548,2024-09-13,Mumbai,Tamil Nadu,Card,Shipped
+960,918,2026-01-25,Mumbai,Maharashtra,Wallet,Returned
+961,1440,2025-09-13,Lucknow,Gujarat,UPI,Cancelled
+962,182,2025-02-25,Kolkata,Telangana,NetBanking,Returned
+963,336,2025-08-29,Hyderabad,Telangana,Wallet,Shipped
+964,1310,2025-01-12,Hyderabad,Rajasthan,Card,Returned
+965,958,2025-03-06,Hyderabad,Tamil Nadu,Card,Returned
+966,1111,2026-01-10,Jaipur,Telangana,NetBanking,Delivered
+967,519,2025-10-27,Delhi,Telangana,COD,Returned
+968,1105,2025-05-25,Delhi,Maharashtra,COD,Shipped
+969,700,2025-10-24,Kochi,Delhi,Wallet,Shipped
+970,1420,2024-09-16,Jaipur,Karnataka,NetBanking,Delivered
+971,1115,2025-07-16,Mumbai,Kerala,UPI,Delivered
+972,1128,2024-11-05,Delhi,Gujarat,COD,Returned
+973,667,2024-06-17,Hyderabad,Kerala,NetBanking,Returned
+974,1182,2024-09-30,Hyderabad,Rajasthan,UPI,Shipped
+975,1319,2025-12-05,Lucknow,Delhi,Card,Delivered
+976,221,2025-07-19,Lucknow,Delhi,UPI,Cancelled
+977,832,2024-10-23,Chennai,Gujarat,Wallet,Delivered
+978,49,2024-09-01,Mumbai,Maharashtra,COD,Delivered
+979,381,2024-09-18,Bengaluru,Karnataka,COD,Returned
+980,865,2024-06-19,Hyderabad,Rajasthan,UPI,Cancelled
+981,795,2025-02-04,Hyderabad,Gujarat,COD,Returned
+982,1208,2025-11-14,Lucknow,West Bengal,Wallet,Delivered
+983,1007,2026-01-14,Mumbai,UP,COD,Cancelled
+984,524,2024-03-21,Lucknow,Rajasthan,Wallet,Delivered
+985,1411,2025-04-26,Kolkata,West Bengal,COD,Returned
+986,779,2024-03-17,Mumbai,UP,UPI,Returned
+987,1114,2024-11-03,Bengaluru,Karnataka,Card,Delivered
+988,778,2025-05-29,Hyderabad,Gujarat,Wallet,Returned
+989,662,2024-03-25,Chennai,Kerala,NetBanking,Shipped
+990,841,2025-11-08,Bengaluru,Maharashtra,Card,Delivered
+991,911,2025-07-21,Bengaluru,Kerala,Card,Returned
+992,1428,2024-11-26,Kolkata,Rajasthan,Wallet,Delivered
+993,1200,2024-11-04,Bengaluru,Kerala,NetBanking,Shipped
+994,601,2025-05-26,Delhi,Maharashtra,COD,Cancelled
+995,225,2025-04-30,Delhi,Karnataka,Card,Returned
+996,511,2025-06-30,Mumbai,Rajasthan,Card,Returned
+997,620,2024-04-03,Delhi,Gujarat,COD,Returned
+998,1462,2024-10-10,Lucknow,Karnataka,UPI,Shipped
+999,271,2024-07-10,Kolkata,West Bengal,UPI,Returned
+1000,751,2025-07-11,Jaipur,Maharashtra,Wallet,Cancelled
+1001,1114,2025-11-30,Bengaluru,Rajasthan,NetBanking,Delivered
+1002,894,2024-11-30,Kochi,Rajasthan,UPI,Delivered
+1003,539,2024-05-18,Hyderabad,UP,NetBanking,Shipped
+1004,248,2024-07-08,Mumbai,Delhi,UPI,Shipped
+1005,403,2025-12-30,Lucknow,Kerala,COD,Cancelled
+1006,137,2025-06-22,Delhi,West Bengal,NetBanking,Delivered
+1007,82,2025-09-14,Ahmedabad,Gujarat,Card,Cancelled
+1008,1437,2024-07-04,Jaipur,Maharashtra,COD,Delivered
+1009,25,2025-07-25,Bengaluru,Kerala,COD,Delivered
+1010,281,2024-12-25,Hyderabad,Gujarat,NetBanking,Shipped
+1011,1360,2024-08-30,Lucknow,UP,NetBanking,Shipped
+1012,354,2024-05-30,Jaipur,Kerala,Wallet,Delivered
+1013,1367,2024-07-17,Delhi,Kerala,Card,Delivered
+1014,1052,2025-06-22,Bengaluru,West Bengal,Card,Shipped
+1015,847,2025-11-21,Hyderabad,Gujarat,COD,Returned
+1016,885,2024-04-20,Mumbai,Telangana,NetBanking,Delivered
+1017,1376,2024-09-03,Hyderabad,Rajasthan,NetBanking,Shipped
+1018,982,2024-06-28,Kolkata,Kerala,NetBanking,Shipped
+1019,1227,2024-10-23,Kochi,Tamil Nadu,NetBanking,Delivered
+1020,1229,2025-05-07,Mumbai,Rajasthan,UPI,Delivered
+1021,299,2026-02-09,Mumbai,Telangana,COD,Returned
+1022,952,2024-12-02,Hyderabad,Tamil Nadu,Wallet,Cancelled
+1023,963,2024-12-30,Kochi,UP,NetBanking,Shipped
+1024,691,2025-06-13,Bengaluru,UP,COD,Delivered
+1025,1289,2024-11-02,Chennai,Tamil Nadu,COD,Shipped
+1026,664,2025-01-04,Ahmedabad,West Bengal,Card,Cancelled
+1027,393,2024-12-28,Hyderabad,Kerala,NetBanking,Cancelled
+1028,1225,2024-11-15,Jaipur,Gujarat,Wallet,Shipped
+1029,605,2026-01-23,Ahmedabad,Telangana,Wallet,Cancelled
+1030,948,2024-09-15,Kolkata,Kerala,Card,Delivered
+1031,1308,2024-12-13,Ahmedabad,Gujarat,Wallet,Cancelled
+1032,1327,2024-08-24,Lucknow,Telangana,Card,Returned
+1033,1469,2025-06-28,Chennai,West Bengal,NetBanking,Cancelled
+1034,522,2024-07-17,Kolkata,Karnataka,COD,Delivered
+1035,1128,2025-03-10,Jaipur,Maharashtra,UPI,Shipped
+1036,1014,2024-11-05,Lucknow,Kerala,Wallet,Cancelled
+1037,1163,2025-07-26,Jaipur,Gujarat,COD,Delivered
+1038,1287,2025-05-01,Lucknow,West Bengal,UPI,Returned
+1039,793,2025-05-11,Hyderabad,Karnataka,Card,Shipped
+1040,741,2024-06-23,Mumbai,Maharashtra,UPI,Cancelled
+1041,1124,2024-06-08,Kochi,Tamil Nadu,Card,Delivered
+1042,867,2026-01-22,Ahmedabad,Maharashtra,Wallet,Delivered
+1043,229,2024-02-29,Hyderabad,West Bengal,COD,Cancelled
+1044,493,2025-05-04,Ahmedabad,Gujarat,Wallet,Cancelled
+1045,725,2025-09-06,Ahmedabad,Delhi,UPI,Cancelled
+1046,352,2024-10-01,Jaipur,Gujarat,Wallet,Delivered
+1047,187,2024-08-01,Kolkata,West Bengal,COD,Returned
+1048,196,2024-06-25,Ahmedabad,Rajasthan,Card,Shipped
+1049,1249,2025-06-03,Delhi,Delhi,Card,Cancelled
+1050,7,2024-06-07,Ahmedabad,Tamil Nadu,NetBanking,Returned
+1051,438,2025-05-20,Ahmedabad,Karnataka,UPI,Returned
+1052,910,2026-02-17,Lucknow,Delhi,NetBanking,Returned
+1053,1109,2024-03-13,Chennai,Gujarat,NetBanking,Returned
+1054,702,2025-08-08,Hyderabad,Maharashtra,NetBanking,Returned
+1055,1243,2025-05-16,Ahmedabad,Telangana,Card,Delivered
+1056,1432,2025-10-26,Jaipur,Delhi,NetBanking,Shipped
+1057,644,2024-09-29,Hyderabad,Rajasthan,COD,Shipped
+1058,473,2024-12-12,Jaipur,West Bengal,NetBanking,Delivered
+1059,1154,2026-01-21,Ahmedabad,Karnataka,NetBanking,Delivered
+1060,1171,2025-03-23,Hyderabad,Telangana,NetBanking,Delivered
+1061,894,2025-07-05,Lucknow,Rajasthan,UPI,Returned
+1062,714,2024-11-06,Ahmedabad,Tamil Nadu,COD,Cancelled
+1063,324,2025-06-23,Delhi,Gujarat,Wallet,Shipped
+1064,782,2024-03-27,Hyderabad,Maharashtra,Card,Delivered
+1065,326,2026-02-12,Bengaluru,West Bengal,Wallet,Delivered
+1066,163,2024-11-01,Kochi,Tamil Nadu,NetBanking,Shipped
+1067,291,2024-12-15,Jaipur,Tamil Nadu,Card,Shipped
+1068,639,2025-04-13,Delhi,Kerala,UPI,Shipped
+1069,1272,2024-05-23,Mumbai,West Bengal,Card,Cancelled
+1070,964,2025-09-02,Jaipur,Delhi,Card,Delivered
+1071,1235,2024-09-06,Bengaluru,Karnataka,UPI,Cancelled
+1072,1094,2024-08-20,Bengaluru,UP,Wallet,Cancelled
+1073,313,2024-08-20,Kochi,Delhi,Card,Delivered
+1074,352,2025-01-17,Chennai,Kerala,UPI,Delivered
+1075,277,2025-03-28,Delhi,Maharashtra,NetBanking,Shipped
+1076,496,2024-07-03,Kolkata,Telangana,Wallet,Cancelled
+1077,504,2025-06-06,Lucknow,Delhi,UPI,Shipped
+1078,1311,2024-08-02,Kolkata,Maharashtra,UPI,Returned
+1079,2,2024-07-07,Chennai,UP,Wallet,Returned
+1080,809,2026-01-12,Kochi,Kerala,NetBanking,Returned
+1081,1065,2025-12-12,Hyderabad,West Bengal,Wallet,Returned
+1082,1073,2024-11-02,Jaipur,Delhi,Wallet,Returned
+1083,75,2024-06-27,Ahmedabad,Karnataka,Wallet,Cancelled
+1084,237,2024-12-20,Kolkata,Rajasthan,NetBanking,Returned
+1085,766,2024-12-21,Mumbai,Telangana,NetBanking,Shipped
+1086,442,2024-03-06,Jaipur,Delhi,NetBanking,Shipped
+1087,619,2025-12-14,Jaipur,Gujarat,Card,Delivered
+1088,900,2024-10-08,Chennai,UP,NetBanking,Returned
+1089,953,2026-02-17,Hyderabad,Gujarat,NetBanking,Shipped
+1090,106,2025-04-19,Ahmedabad,Delhi,UPI,Cancelled
+1091,109,2025-03-08,Hyderabad,UP,NetBanking,Returned
+1092,1226,2024-05-08,Chennai,Telangana,Wallet,Returned
+1093,982,2024-03-31,Bengaluru,Telangana,COD,Shipped
+1094,1038,2025-01-01,Delhi,Maharashtra,UPI,Shipped
+1095,1151,2026-02-16,Chennai,Maharashtra,UPI,Shipped
+1096,1068,2025-11-25,Hyderabad,Maharashtra,NetBanking,Returned
+1097,1256,2025-01-26,Lucknow,Telangana,Wallet,Cancelled
+1098,754,2024-12-06,Mumbai,Kerala,Wallet,Delivered
+1099,999,2025-05-12,Jaipur,Kerala,UPI,Delivered
+1100,774,2024-07-25,Hyderabad,UP,COD,Shipped
+1101,403,2024-07-13,Bengaluru,West Bengal,NetBanking,Cancelled
+1102,452,2025-03-28,Mumbai,Maharashtra,COD,Delivered
+1103,399,2024-07-04,Jaipur,West Bengal,Card,Returned
+1104,875,2024-07-23,Kochi,West Bengal,COD,Shipped
+1105,136,2024-02-19,Delhi,Maharashtra,COD,Returned
+1106,449,2024-04-26,Lucknow,Delhi,NetBanking,Delivered
+1107,1371,2024-05-10,Lucknow,Telangana,Wallet,Cancelled
+1108,529,2025-06-13,Kolkata,Kerala,Wallet,Cancelled
+1109,1362,2025-11-26,Hyderabad,Kerala,Card,Cancelled
+1110,503,2025-10-19,Ahmedabad,Maharashtra,NetBanking,Returned
+1111,673,2024-11-23,Kochi,Tamil Nadu,NetBanking,Returned
+1112,1212,2024-04-11,Chennai,Tamil Nadu,UPI,Shipped
+1113,458,2025-09-09,Ahmedabad,Gujarat,NetBanking,Shipped
+1114,1429,2024-05-29,Kochi,Kerala,COD,Returned
+1115,859,2025-04-03,Kolkata,Telangana,COD,Delivered
+1116,333,2024-10-24,Kolkata,UP,UPI,Cancelled
+1117,893,2024-04-17,Jaipur,Rajasthan,Card,Returned
+1118,63,2025-06-17,Hyderabad,Telangana,UPI,Cancelled
+1119,997,2024-10-17,Lucknow,Rajasthan,Wallet,Shipped
+1120,881,2025-04-09,Ahmedabad,Tamil Nadu,Card,Shipped
+1121,327,2025-01-28,Kolkata,Telangana,Wallet,Returned
+1122,207,2024-05-13,Bengaluru,Karnataka,UPI,Shipped
+1123,878,2025-08-25,Lucknow,Karnataka,Card,Delivered
+1124,966,2024-02-21,Delhi,Maharashtra,Card,Cancelled
+1125,1391,2025-02-28,Hyderabad,West Bengal,UPI,Delivered
+1126,635,2024-08-06,Hyderabad,Karnataka,UPI,Delivered
+1127,1259,2024-03-30,Mumbai,Gujarat,Card,Returned
+1128,221,2025-07-05,Chennai,West Bengal,COD,Delivered
+1129,583,2025-11-07,Delhi,Karnataka,NetBanking,Cancelled
+1130,1318,2024-07-29,Kochi,Karnataka,NetBanking,Shipped
+1131,582,2026-01-24,Mumbai,Rajasthan,COD,Shipped
+1132,969,2026-01-30,Lucknow,Telangana,Wallet,Cancelled
+1133,1339,2024-12-15,Jaipur,Rajasthan,Card,Cancelled
+1134,669,2026-01-01,Ahmedabad,Gujarat,NetBanking,Shipped
+1135,318,2026-02-08,Mumbai,Karnataka,UPI,Delivered
+1136,221,2024-07-19,Lucknow,Delhi,Card,Delivered
+1137,682,2024-12-04,Hyderabad,West Bengal,Card,Returned
+1138,840,2025-05-09,Bengaluru,Kerala,Wallet,Cancelled
+1139,430,2026-02-14,Lucknow,Maharashtra,COD,Shipped
+1140,393,2025-03-25,Hyderabad,Karnataka,UPI,Delivered
+1141,798,2024-11-03,Delhi,UP,NetBanking,Returned
+1142,663,2026-02-14,Lucknow,Delhi,COD,Returned
+1143,645,2025-12-24,Kolkata,Delhi,UPI,Shipped
+1144,852,2024-11-01,Bengaluru,UP,COD,Shipped
+1145,288,2024-04-02,Ahmedabad,Kerala,Wallet,Returned
+1146,415,2024-11-29,Delhi,Rajasthan,UPI,Delivered
+1147,739,2025-11-26,Hyderabad,West Bengal,COD,Cancelled
+1148,215,2024-02-21,Lucknow,Kerala,Card,Shipped
+1149,681,2024-07-19,Kochi,Tamil Nadu,Wallet,Returned
+1150,1210,2025-08-13,Kolkata,West Bengal,Card,Returned
+1151,932,2024-03-30,Kolkata,Kerala,COD,Returned
+1152,583,2024-04-04,Hyderabad,Maharashtra,NetBanking,Delivered
+1153,855,2025-06-18,Lucknow,West Bengal,Wallet,Shipped
+1154,1211,2025-01-06,Ahmedabad,UP,COD,Cancelled
+1155,80,2025-12-17,Ahmedabad,West Bengal,COD,Returned
+1156,9,2024-11-16,Kochi,Gujarat,UPI,Shipped
+1157,490,2025-05-24,Jaipur,Maharashtra,NetBanking,Delivered
+1158,561,2024-05-06,Kochi,Kerala,NetBanking,Delivered
+1159,1311,2025-07-16,Chennai,West Bengal,UPI,Returned
+1160,438,2025-10-05,Kochi,Kerala,COD,Delivered
+1161,797,2024-10-16,Kochi,Telangana,Card,Shipped
+1162,1404,2024-03-04,Jaipur,Karnataka,COD,Shipped
+1163,43,2025-06-24,Bengaluru,Delhi,COD,Shipped
+1164,599,2025-12-23,Chennai,Rajasthan,Card,Returned
+1165,1494,2024-09-14,Delhi,Telangana,UPI,Cancelled
+1166,1111,2024-12-31,Kochi,Karnataka,UPI,Shipped
+1167,7,2024-06-22,Ahmedabad,Karnataka,COD,Shipped
+1168,925,2024-06-14,Hyderabad,Karnataka,Wallet,Returned
+1169,251,2025-07-26,Lucknow,West Bengal,COD,Delivered
+1170,189,2025-02-17,Hyderabad,Delhi,NetBanking,Shipped
+1171,513,2025-08-30,Mumbai,West Bengal,UPI,Delivered
+1172,299,2024-08-03,Hyderabad,Delhi,Wallet,Shipped
+1173,1294,2025-06-23,Hyderabad,Maharashtra,COD,Returned
+1174,213,2025-05-06,Kochi,Rajasthan,Card,Shipped
+1175,1272,2024-08-31,Lucknow,West Bengal,UPI,Shipped
+1176,1013,2025-12-22,Kochi,UP,NetBanking,Cancelled
+1177,756,2025-12-07,Ahmedabad,Maharashtra,UPI,Returned
+1178,8,2024-08-29,Kolkata,Telangana,UPI,Cancelled
+1179,694,2025-12-14,Jaipur,Maharashtra,COD,Returned
+1180,275,2024-05-16,Bengaluru,West Bengal,Wallet,Delivered
+1181,279,2025-10-18,Lucknow,UP,Wallet,Cancelled
+1182,1280,2024-06-20,Mumbai,Telangana,Card,Cancelled
+1183,872,2025-08-21,Chennai,Maharashtra,UPI,Delivered
+1184,1362,2024-12-22,Delhi,Tamil Nadu,NetBanking,Shipped
+1185,697,2024-12-02,Jaipur,Karnataka,Wallet,Cancelled
+1186,1021,2024-05-05,Chennai,Tamil Nadu,NetBanking,Delivered
+1187,584,2024-03-16,Hyderabad,Delhi,UPI,Shipped
+1188,1235,2025-08-09,Kolkata,Karnataka,COD,Delivered
+1189,542,2024-05-26,Hyderabad,Telangana,UPI,Shipped
+1190,435,2025-10-01,Kolkata,Karnataka,Card,Delivered
+1191,638,2024-11-28,Kochi,Kerala,UPI,Cancelled
+1192,1348,2025-09-06,Chennai,Karnataka,NetBanking,Delivered
+1193,861,2025-01-03,Bengaluru,Telangana,COD,Delivered
+1194,141,2024-07-08,Bengaluru,West Bengal,UPI,Delivered
+1195,88,2025-06-21,Lucknow,Telangana,NetBanking,Delivered
+1196,326,2024-11-15,Kolkata,Kerala,Card,Delivered
+1197,345,2025-01-26,Delhi,West Bengal,UPI,Delivered
+1198,448,2025-06-14,Delhi,Delhi,Wallet,Shipped
+1199,11,2025-04-11,Kochi,Tamil Nadu,Wallet,Shipped
+1200,1122,2025-07-07,Ahmedabad,Maharashtra,NetBanking,Shipped
+1201,1366,2025-11-07,Jaipur,Gujarat,Wallet,Cancelled
+1202,279,2025-02-05,Jaipur,West Bengal,NetBanking,Cancelled
+1203,511,2024-11-20,Kolkata,Karnataka,NetBanking,Cancelled
+1204,1240,2025-12-13,Lucknow,Maharashtra,UPI,Returned
+1205,392,2025-10-15,Chennai,Delhi,Wallet,Shipped
+1206,1189,2025-12-06,Bengaluru,Gujarat,Card,Delivered
+1207,512,2024-10-12,Mumbai,Karnataka,NetBanking,Shipped
+1208,567,2024-09-29,Bengaluru,West Bengal,UPI,Shipped
+1209,1426,2024-06-11,Mumbai,Rajasthan,UPI,Cancelled
+1210,916,2024-09-17,Delhi,Delhi,UPI,Cancelled
+1211,842,2025-01-16,Jaipur,Kerala,COD,Returned
+1212,413,2025-12-29,Delhi,Gujarat,NetBanking,Cancelled
+1213,1364,2024-08-29,Ahmedabad,UP,NetBanking,Cancelled
+1214,101,2025-05-11,Chennai,Maharashtra,NetBanking,Returned
+1215,126,2024-07-30,Mumbai,UP,Wallet,Cancelled
+1216,847,2024-09-14,Bengaluru,Tamil Nadu,Card,Cancelled
+1217,363,2024-12-01,Jaipur,Maharashtra,NetBanking,Delivered
+1218,931,2025-10-11,Hyderabad,Tamil Nadu,Card,Returned
+1219,1410,2024-09-11,Chennai,UP,NetBanking,Cancelled
+1220,984,2024-08-01,Ahmedabad,UP,Card,Delivered
+1221,1322,2024-10-16,Lucknow,Rajasthan,Card,Shipped
+1222,549,2024-06-10,Hyderabad,Kerala,COD,Delivered
+1223,1349,2024-11-23,Kochi,Tamil Nadu,NetBanking,Delivered
+1224,1162,2024-04-23,Bengaluru,Gujarat,COD,Cancelled
+1225,1369,2024-10-26,Kochi,West Bengal,Wallet,Shipped
+1226,1018,2025-11-22,Kochi,Maharashtra,Card,Delivered
+1227,1413,2025-01-19,Kochi,Rajasthan,Wallet,Cancelled
+1228,986,2024-02-20,Ahmedabad,Delhi,UPI,Cancelled
+1229,515,2025-04-29,Chennai,West Bengal,Card,Returned
+1230,1233,2026-01-04,Kolkata,West Bengal,COD,Delivered
+1231,967,2025-03-14,Kolkata,Gujarat,Card,Cancelled
+1232,689,2024-04-05,Hyderabad,UP,Card,Cancelled
+1233,467,2025-07-07,Jaipur,Kerala,UPI,Delivered
+1234,1158,2024-06-03,Delhi,Gujarat,NetBanking,Delivered
+1235,957,2024-09-15,Jaipur,Kerala,UPI,Delivered
+1236,1124,2026-01-16,Lucknow,Delhi,Card,Shipped
+1237,760,2024-09-29,Bengaluru,Maharashtra,COD,Delivered
+1238,838,2025-10-12,Bengaluru,Tamil Nadu,Wallet,Returned
+1239,192,2024-09-20,Hyderabad,Gujarat,Wallet,Delivered
+1240,513,2024-05-24,Kolkata,Kerala,Card,Delivered
+1241,1412,2025-06-20,Chennai,Kerala,Card,Delivered
+1242,444,2025-07-04,Jaipur,Telangana,UPI,Delivered
+1243,1194,2025-07-18,Ahmedabad,West Bengal,COD,Delivered
+1244,1427,2025-05-01,Hyderabad,Telangana,NetBanking,Shipped
+1245,200,2024-03-17,Kolkata,Maharashtra,COD,Shipped
+1246,322,2024-08-13,Ahmedabad,Maharashtra,Card,Shipped
+1247,405,2024-09-20,Delhi,Tamil Nadu,NetBanking,Delivered
+1248,921,2025-12-27,Ahmedabad,West Bengal,Card,Delivered
+1249,1487,2024-06-18,Ahmedabad,Telangana,COD,Returned
+1250,1409,2024-07-25,Bengaluru,Delhi,NetBanking,Returned
+1251,351,2024-02-26,Hyderabad,Maharashtra,Wallet,Shipped
+1252,861,2026-01-19,Bengaluru,Karnataka,Card,Shipped
+1253,315,2024-05-03,Jaipur,Karnataka,NetBanking,Shipped
+1254,341,2026-02-04,Chennai,Kerala,Wallet,Cancelled
+1255,323,2025-05-27,Kolkata,Kerala,Wallet,Shipped
+1256,871,2025-05-23,Delhi,West Bengal,NetBanking,Cancelled
+1257,533,2025-01-07,Kolkata,Gujarat,UPI,Shipped
+1258,606,2025-04-09,Jaipur,Kerala,NetBanking,Delivered
+1259,237,2025-10-06,Delhi,Maharashtra,Card,Delivered
+1260,982,2025-09-14,Jaipur,West Bengal,Card,Delivered
+1261,369,2025-08-02,Kochi,Gujarat,Card,Shipped
+1262,1042,2024-04-10,Kolkata,Kerala,UPI,Shipped
+1263,1132,2025-08-23,Bengaluru,Telangana,Wallet,Delivered
+1264,535,2024-11-10,Hyderabad,Kerala,Card,Shipped
+1265,876,2024-04-04,Lucknow,Gujarat,Card,Shipped
+1266,1304,2026-02-03,Bengaluru,Kerala,Card,Returned
+1267,865,2024-05-02,Kochi,Karnataka,COD,Returned
+1268,1396,2024-08-05,Chennai,Telangana,UPI,Delivered
+1269,56,2024-03-01,Mumbai,Maharashtra,UPI,Cancelled
+1270,1305,2024-08-05,Kolkata,Karnataka,UPI,Shipped
+1271,202,2025-06-25,Lucknow,Kerala,COD,Delivered
+1272,1239,2025-11-25,Mumbai,Delhi,COD,Cancelled
+1273,1377,2025-03-13,Bengaluru,Kerala,COD,Cancelled
+1274,327,2024-11-12,Bengaluru,Kerala,Card,Returned
+1275,1006,2024-12-09,Kochi,Karnataka,Card,Shipped
+1276,1027,2024-12-10,Kolkata,Maharashtra,COD,Returned
+1277,83,2025-06-13,Kochi,Rajasthan,NetBanking,Delivered
+1278,1228,2024-04-04,Mumbai,Maharashtra,COD,Shipped
+1279,708,2025-03-11,Hyderabad,Karnataka,COD,Cancelled
+1280,308,2025-08-14,Jaipur,Rajasthan,Wallet,Delivered
+1281,846,2024-10-17,Delhi,Tamil Nadu,Wallet,Shipped
+1282,757,2025-01-13,Mumbai,Telangana,COD,Shipped
+1283,769,2025-10-01,Mumbai,Kerala,UPI,Returned
+1284,833,2024-04-13,Ahmedabad,Gujarat,NetBanking,Returned
+1285,728,2025-11-12,Mumbai,West Bengal,Wallet,Shipped
+1286,133,2024-06-26,Mumbai,Tamil Nadu,UPI,Delivered
+1287,518,2025-03-26,Kochi,Karnataka,Wallet,Delivered
+1288,1282,2024-11-12,Chennai,Delhi,Wallet,Returned
+1289,510,2025-07-13,Kochi,Gujarat,NetBanking,Shipped
+1290,1327,2025-08-13,Bengaluru,Rajasthan,COD,Shipped
+1291,1379,2024-07-26,Bengaluru,Delhi,NetBanking,Cancelled
+1292,1069,2024-08-11,Kolkata,Tamil Nadu,NetBanking,Cancelled
+1293,43,2024-07-30,Ahmedabad,Rajasthan,Card,Cancelled
+1294,883,2025-08-13,Ahmedabad,Karnataka,COD,Cancelled
+1295,947,2024-05-13,Mumbai,Rajasthan,COD,Returned
+1296,727,2024-07-28,Hyderabad,Tamil Nadu,UPI,Shipped
+1297,470,2025-04-06,Hyderabad,Telangana,Wallet,Shipped
+1298,393,2024-12-15,Mumbai,Karnataka,NetBanking,Returned
+1299,843,2024-12-30,Chennai,Tamil Nadu,Wallet,Delivered
+1300,1497,2024-10-07,Bengaluru,Telangana,Card,Shipped
+1301,680,2024-11-27,Delhi,UP,Wallet,Delivered
+1302,1410,2026-01-08,Hyderabad,Maharashtra,COD,Delivered
+1303,490,2024-12-13,Ahmedabad,Gujarat,Card,Cancelled
+1304,1078,2024-09-04,Chennai,West Bengal,COD,Delivered
+1305,1492,2025-03-29,Ahmedabad,Delhi,UPI,Delivered
+1306,1457,2024-05-25,Kolkata,UP,Wallet,Returned
+1307,1115,2024-06-24,Mumbai,West Bengal,Card,Shipped
+1308,188,2025-10-18,Ahmedabad,UP,Card,Shipped
+1309,1319,2025-04-08,Hyderabad,Gujarat,UPI,Returned
+1310,1482,2024-03-25,Bengaluru,Karnataka,Wallet,Returned
+1311,798,2025-01-19,Bengaluru,UP,Wallet,Returned
+1312,1476,2025-09-06,Kochi,Maharashtra,UPI,Shipped
+1313,55,2024-09-19,Mumbai,West Bengal,UPI,Cancelled
+1314,230,2025-04-18,Kochi,Delhi,Wallet,Delivered
+1315,1410,2024-10-26,Jaipur,Telangana,NetBanking,Returned
+1316,1494,2024-11-15,Chennai,West Bengal,UPI,Returned
+1317,1272,2024-02-22,Ahmedabad,Rajasthan,COD,Cancelled
+1318,119,2024-07-05,Bengaluru,Tamil Nadu,Wallet,Delivered
+1319,1078,2024-06-24,Kolkata,Tamil Nadu,UPI,Cancelled
+1320,474,2024-10-07,Jaipur,Kerala,NetBanking,Cancelled
+1321,1202,2024-03-17,Delhi,Rajasthan,Card,Shipped
+1322,442,2024-07-29,Kolkata,West Bengal,Wallet,Shipped
+1323,492,2024-05-04,Lucknow,Tamil Nadu,COD,Cancelled
+1324,158,2025-04-22,Bengaluru,Tamil Nadu,UPI,Cancelled
+1325,1065,2024-07-01,Kochi,Rajasthan,UPI,Cancelled
+1326,44,2025-11-25,Hyderabad,Gujarat,NetBanking,Returned
+1327,892,2025-05-02,Mumbai,Kerala,UPI,Delivered
+1328,874,2024-06-29,Mumbai,Maharashtra,Card,Delivered
+1329,417,2025-08-04,Hyderabad,Rajasthan,NetBanking,Delivered
+1330,792,2024-03-17,Delhi,UP,UPI,Cancelled
+1331,205,2024-09-23,Delhi,Gujarat,COD,Cancelled
+1332,107,2025-02-17,Jaipur,Kerala,Wallet,Shipped
+1333,1172,2025-05-10,Bengaluru,UP,NetBanking,Returned
+1334,1320,2025-09-15,Delhi,West Bengal,Card,Cancelled
+1335,83,2024-12-12,Bengaluru,Gujarat,COD,Delivered
+1336,917,2025-08-12,Ahmedabad,Telangana,COD,Shipped
+1337,1367,2025-06-21,Kochi,Kerala,Card,Returned
+1338,435,2024-04-06,Ahmedabad,Telangana,Wallet,Delivered
+1339,210,2024-04-13,Hyderabad,UP,UPI,Delivered
+1340,755,2025-07-22,Kolkata,West Bengal,UPI,Cancelled
+1341,1176,2024-12-07,Delhi,Maharashtra,NetBanking,Cancelled
+1342,340,2025-10-07,Jaipur,West Bengal,Wallet,Returned
+1343,1173,2025-11-19,Jaipur,Tamil Nadu,Wallet,Returned
+1344,1070,2024-05-20,Chennai,Delhi,Wallet,Cancelled
+1345,787,2025-10-04,Kolkata,Gujarat,Card,Cancelled
+1346,211,2025-09-19,Chennai,Maharashtra,Wallet,Cancelled
+1347,1268,2025-09-24,Ahmedabad,Delhi,Card,Delivered
+1348,457,2024-08-26,Chennai,Delhi,NetBanking,Returned
+1349,1147,2025-09-18,Mumbai,Rajasthan,Wallet,Delivered
+1350,969,2025-09-12,Delhi,Rajasthan,UPI,Returned
+1351,63,2025-04-21,Lucknow,Delhi,Card,Cancelled
+1352,1484,2025-09-16,Ahmedabad,Kerala,Wallet,Shipped
+1353,1373,2025-01-17,Kolkata,Telangana,Card,Shipped
+1354,1150,2025-12-23,Mumbai,Tamil Nadu,UPI,Cancelled
+1355,1360,2025-04-11,Bengaluru,Delhi,Wallet,Returned
+1356,62,2025-02-02,Kochi,Delhi,NetBanking,Cancelled
+1357,1386,2025-08-29,Delhi,Rajasthan,COD,Delivered
+1358,784,2025-09-04,Kolkata,Rajasthan,COD,Returned
+1359,150,2025-11-25,Ahmedabad,Maharashtra,Wallet,Returned
+1360,202,2025-04-30,Delhi,Gujarat,Wallet,Cancelled
+1361,690,2025-09-26,Bengaluru,Tamil Nadu,Card,Cancelled
+1362,1109,2025-04-02,Delhi,Gujarat,Wallet,Cancelled
+1363,557,2025-07-24,Mumbai,Maharashtra,Card,Returned
+1364,3,2024-10-05,Mumbai,Kerala,NetBanking,Returned
+1365,129,2025-03-23,Mumbai,Karnataka,NetBanking,Shipped
+1366,167,2024-05-05,Ahmedabad,West Bengal,COD,Delivered
+1367,136,2024-04-08,Jaipur,Kerala,UPI,Cancelled
+1368,601,2024-05-11,Kolkata,Karnataka,COD,Delivered
+1369,836,2025-05-28,Delhi,Kerala,Card,Returned
+1370,843,2025-12-07,Delhi,Maharashtra,COD,Shipped
+1371,574,2025-12-02,Chennai,Maharashtra,NetBanking,Returned
+1372,1227,2025-05-17,Chennai,Rajasthan,Card,Delivered
+1373,287,2025-05-23,Jaipur,Rajasthan,Card,Shipped
+1374,40,2025-02-05,Kochi,Karnataka,NetBanking,Returned
+1375,98,2025-03-18,Delhi,West Bengal,Wallet,Delivered
+1376,47,2024-11-14,Jaipur,Kerala,Wallet,Cancelled
+1377,400,2024-04-27,Ahmedabad,Gujarat,NetBanking,Shipped
+1378,272,2024-05-20,Hyderabad,Telangana,Card,Shipped
+1379,822,2025-02-06,Bengaluru,UP,Wallet,Delivered
+1380,22,2025-06-08,Ahmedabad,Delhi,UPI,Delivered
+1381,335,2025-10-28,Mumbai,Rajasthan,UPI,Shipped
+1382,488,2025-04-26,Kochi,Telangana,Card,Returned
+1383,1119,2025-07-10,Kolkata,Telangana,NetBanking,Delivered
+1384,447,2024-08-31,Lucknow,Karnataka,Wallet,Cancelled
+1385,542,2024-12-29,Kolkata,Maharashtra,Card,Cancelled
+1386,289,2024-04-07,Jaipur,Tamil Nadu,Wallet,Delivered
+1387,884,2024-05-25,Chennai,Tamil Nadu,UPI,Shipped
+1388,420,2025-05-26,Chennai,Karnataka,NetBanking,Returned
+1389,222,2025-08-19,Delhi,UP,NetBanking,Shipped
+1390,154,2024-08-28,Mumbai,Delhi,UPI,Returned
+1391,1099,2025-10-14,Delhi,Karnataka,Card,Cancelled
+1392,860,2025-08-03,Delhi,West Bengal,Wallet,Cancelled
+1393,1498,2025-07-06,Kolkata,UP,Card,Returned
+1394,1105,2024-10-13,Ahmedabad,Karnataka,Wallet,Shipped
+1395,1396,2025-08-28,Hyderabad,Rajasthan,UPI,Cancelled
+1396,1173,2024-10-10,Lucknow,Maharashtra,NetBanking,Returned
+1397,1395,2025-04-06,Bengaluru,UP,NetBanking,Delivered
+1398,1017,2025-04-06,Ahmedabad,Rajasthan,Wallet,Shipped
+1399,748,2024-03-05,Mumbai,Rajasthan,Wallet,Shipped
+1400,1350,2024-05-15,Delhi,Delhi,Card,Cancelled
+1401,1381,2025-01-19,Delhi,Karnataka,NetBanking,Cancelled
+1402,687,2024-03-05,Kochi,UP,UPI,Cancelled
+1403,1167,2025-04-08,Delhi,Karnataka,Wallet,Shipped
+1404,1169,2024-05-03,Delhi,Telangana,Wallet,Returned
+1405,1217,2025-05-31,Mumbai,Kerala,Wallet,Cancelled
+1406,881,2024-10-16,Kolkata,West Bengal,Wallet,Cancelled
+1407,34,2025-08-31,Delhi,Delhi,UPI,Cancelled
+1408,1240,2024-03-24,Ahmedabad,Kerala,NetBanking,Cancelled
+1409,598,2025-07-22,Delhi,Tamil Nadu,Wallet,Cancelled
+1410,1049,2025-11-04,Kochi,Karnataka,UPI,Cancelled
+1411,926,2025-02-08,Kochi,Kerala,NetBanking,Delivered
+1412,1342,2026-01-30,Lucknow,Karnataka,COD,Shipped
+1413,1115,2024-10-16,Jaipur,UP,NetBanking,Returned
+1414,1105,2024-09-06,Delhi,Maharashtra,Wallet,Returned
+1415,780,2024-11-26,Bengaluru,West Bengal,UPI,Returned
+1416,1251,2025-07-09,Kochi,UP,NetBanking,Shipped
+1417,1177,2025-11-18,Jaipur,Kerala,NetBanking,Shipped
+1418,656,2024-06-30,Kochi,West Bengal,Card,Returned
+1419,1318,2024-03-29,Kochi,Telangana,Wallet,Delivered
+1420,1318,2025-04-02,Delhi,Gujarat,COD,Delivered
+1421,552,2026-01-31,Mumbai,Telangana,NetBanking,Returned
+1422,680,2025-11-14,Lucknow,West Bengal,UPI,Delivered
+1423,256,2026-01-08,Delhi,Tamil Nadu,Wallet,Shipped
+1424,768,2025-02-03,Chennai,Tamil Nadu,Card,Returned
+1425,1216,2025-06-04,Jaipur,Gujarat,Card,Cancelled
+1426,603,2025-11-06,Delhi,Gujarat,Card,Cancelled
+1427,456,2025-03-25,Ahmedabad,Kerala,Wallet,Delivered
+1428,830,2025-02-01,Delhi,Tamil Nadu,UPI,Cancelled
+1429,1092,2024-08-28,Hyderabad,UP,Card,Cancelled
+1430,344,2025-03-23,Kolkata,Delhi,NetBanking,Shipped
+1431,456,2026-01-30,Hyderabad,Kerala,Wallet,Cancelled
+1432,458,2024-06-02,Kochi,Karnataka,Wallet,Returned
+1433,750,2025-03-03,Mumbai,UP,Wallet,Cancelled
+1434,1145,2025-03-20,Hyderabad,Maharashtra,Wallet,Cancelled
+1435,1393,2025-07-02,Chennai,Tamil Nadu,Card,Delivered
+1436,628,2024-09-04,Kolkata,Karnataka,Wallet,Delivered
+1437,986,2024-06-13,Kolkata,UP,Card,Delivered
+1438,1069,2024-09-09,Hyderabad,West Bengal,Card,Cancelled
+1439,177,2024-03-28,Hyderabad,Gujarat,NetBanking,Cancelled
+1440,667,2024-05-19,Chennai,UP,UPI,Cancelled
+1441,415,2025-01-19,Bengaluru,Gujarat,Card,Cancelled
+1442,440,2025-11-14,Jaipur,UP,Wallet,Delivered
+1443,873,2024-10-19,Lucknow,Telangana,UPI,Delivered
+1444,545,2025-11-15,Delhi,Karnataka,COD,Delivered
+1445,725,2024-03-26,Delhi,UP,NetBanking,Delivered
+1446,1212,2026-01-31,Kochi,UP,Wallet,Delivered
+1447,270,2025-10-30,Lucknow,Maharashtra,COD,Cancelled
+1448,482,2024-06-30,Kochi,Kerala,Wallet,Cancelled
+1449,334,2025-04-05,Delhi,Telangana,Wallet,Returned
+1450,120,2025-04-20,Hyderabad,West Bengal,Wallet,Returned
+1451,1104,2025-05-24,Lucknow,Tamil Nadu,COD,Shipped
+1452,1010,2024-07-09,Hyderabad,Kerala,COD,Cancelled
+1453,1295,2025-08-26,Hyderabad,West Bengal,NetBanking,Cancelled
+1454,1460,2025-01-08,Kolkata,Tamil Nadu,Card,Shipped
+1455,1259,2024-12-26,Bengaluru,Karnataka,NetBanking,Cancelled
+1456,279,2024-03-16,Mumbai,Maharashtra,UPI,Shipped
+1457,763,2024-12-29,Ahmedabad,West Bengal,Card,Delivered
+1458,269,2024-10-18,Bengaluru,Telangana,COD,Delivered
+1459,12,2024-09-19,Hyderabad,Telangana,NetBanking,Delivered
+1460,418,2025-08-06,Jaipur,Kerala,Card,Delivered
+1461,622,2024-12-05,Chennai,Kerala,Wallet,Returned
+1462,1202,2025-03-20,Kolkata,UP,Card,Returned
+1463,455,2026-01-25,Jaipur,UP,NetBanking,Cancelled
+1464,847,2025-12-08,Delhi,Maharashtra,Card,Cancelled
+1465,1442,2025-07-30,Delhi,Telangana,COD,Shipped
+1466,1077,2024-04-30,Ahmedabad,Delhi,Wallet,Delivered
+1467,390,2024-07-04,Bengaluru,Delhi,Card,Shipped
+1468,15,2025-12-10,Chennai,West Bengal,UPI,Delivered
+1469,17,2025-03-11,Bengaluru,Kerala,Card,Returned
+1470,1003,2024-11-13,Delhi,Gujarat,Wallet,Returned
+1471,50,2025-02-06,Kochi,Delhi,NetBanking,Returned
+1472,1447,2025-08-03,Bengaluru,UP,Card,Shipped
+1473,984,2025-02-11,Lucknow,Telangana,COD,Cancelled
+1474,1286,2025-09-16,Chennai,UP,Card,Returned
+1475,1170,2024-07-26,Mumbai,Telangana,Card,Delivered
+1476,1372,2025-07-26,Lucknow,Rajasthan,Wallet,Shipped
+1477,804,2024-06-02,Mumbai,Kerala,Card,Returned
+1478,1322,2024-06-21,Lucknow,Delhi,UPI,Returned
+1479,441,2026-01-22,Ahmedabad,UP,Card,Shipped
+1480,668,2024-03-19,Delhi,Delhi,Card,Shipped
+1481,351,2025-04-15,Bengaluru,Rajasthan,COD,Delivered
+1482,621,2025-12-05,Ahmedabad,Kerala,Wallet,Shipped
+1483,342,2024-10-18,Hyderabad,Telangana,Card,Shipped
+1484,1139,2025-01-11,Chennai,Tamil Nadu,NetBanking,Delivered
+1485,1485,2025-07-03,Lucknow,UP,Card,Shipped
+1486,594,2025-03-27,Ahmedabad,Maharashtra,Wallet,Cancelled
+1487,520,2024-11-12,Kolkata,UP,Wallet,Delivered
+1488,916,2024-08-21,Kolkata,West Bengal,NetBanking,Delivered
+1489,1170,2024-08-28,Delhi,UP,UPI,Shipped
+1490,679,2024-04-15,Ahmedabad,West Bengal,NetBanking,Returned
+1491,439,2024-06-13,Lucknow,Telangana,Card,Shipped
+1492,306,2024-07-01,Mumbai,Karnataka,Card,Cancelled
+1493,1494,2025-03-31,Mumbai,Kerala,Card,Shipped
+1494,92,2024-03-28,Chennai,Kerala,NetBanking,Returned
+1495,1032,2025-08-03,Kochi,West Bengal,NetBanking,Cancelled
+1496,432,2026-01-19,Hyderabad,Kerala,COD,Shipped
+1497,1306,2024-10-18,Kochi,Rajasthan,UPI,Delivered
+1498,36,2024-09-12,Chennai,Tamil Nadu,Card,Returned
+1499,168,2025-12-10,Kolkata,West Bengal,COD,Delivered
+1500,137,2025-06-04,Hyderabad,Delhi,Card,Delivered
+1501,306,2024-03-13,Kolkata,Delhi,Wallet,Cancelled
+1502,50,2025-12-29,Bengaluru,Tamil Nadu,Card,Returned
+1503,1339,2024-11-28,Kochi,Gujarat,UPI,Shipped
+1504,1181,2024-02-24,Jaipur,UP,UPI,Shipped
+1505,1216,2026-01-22,Lucknow,Karnataka,Wallet,Delivered
+1506,815,2024-07-16,Mumbai,Delhi,Card,Delivered
+1507,323,2024-09-18,Bengaluru,UP,NetBanking,Returned
+1508,286,2025-12-26,Mumbai,Karnataka,Wallet,Delivered
+1509,231,2024-06-16,Jaipur,Rajasthan,UPI,Shipped
+1510,86,2024-08-22,Bengaluru,West Bengal,UPI,Returned
+1511,1481,2024-07-07,Hyderabad,Kerala,NetBanking,Shipped
+1512,1276,2024-09-08,Ahmedabad,Maharashtra,COD,Shipped
+1513,779,2025-05-05,Hyderabad,Gujarat,Wallet,Delivered
+1514,367,2025-12-26,Lucknow,Tamil Nadu,Wallet,Delivered
+1515,578,2024-07-21,Delhi,Karnataka,UPI,Cancelled
+1516,1144,2024-03-13,Jaipur,Kerala,Card,Cancelled
+1517,1181,2024-02-27,Hyderabad,Delhi,Card,Cancelled
+1518,264,2025-03-09,Mumbai,West Bengal,Card,Cancelled
+1519,1478,2025-02-11,Jaipur,Karnataka,UPI,Shipped
+1520,1166,2026-01-01,Kolkata,Telangana,Card,Returned
+1521,200,2024-03-07,Ahmedabad,UP,UPI,Shipped
+1522,391,2024-11-27,Jaipur,Telangana,Wallet,Cancelled
+1523,751,2025-08-24,Jaipur,Tamil Nadu,Card,Shipped
+1524,532,2024-03-17,Bengaluru,Delhi,UPI,Shipped
+1525,111,2025-06-26,Jaipur,Karnataka,COD,Shipped
+1526,473,2025-06-23,Kochi,UP,COD,Delivered
+1527,1227,2024-08-07,Kolkata,Maharashtra,NetBanking,Delivered
+1528,873,2025-05-05,Kolkata,Maharashtra,NetBanking,Shipped
+1529,260,2024-07-01,Chennai,Kerala,UPI,Cancelled
+1530,535,2025-01-11,Delhi,Maharashtra,Card,Cancelled
+1531,512,2024-03-23,Mumbai,Karnataka,UPI,Cancelled
+1532,1017,2025-04-09,Kolkata,UP,COD,Returned
+1533,1276,2024-12-30,Bengaluru,Telangana,NetBanking,Cancelled
+1534,584,2025-03-05,Jaipur,Delhi,Card,Cancelled
+1535,218,2025-06-24,Delhi,Tamil Nadu,NetBanking,Returned
+1536,227,2024-02-21,Mumbai,Kerala,UPI,Delivered
+1537,252,2025-07-29,Mumbai,Gujarat,UPI,Returned
+1538,471,2025-09-08,Bengaluru,UP,NetBanking,Cancelled
+1539,1002,2024-05-21,Delhi,Rajasthan,Wallet,Delivered
+1540,27,2025-08-29,Kochi,Karnataka,COD,Returned
+1541,304,2024-06-07,Kolkata,Maharashtra,UPI,Cancelled
+1542,125,2026-02-09,Lucknow,Karnataka,Card,Delivered
+1543,928,2025-04-12,Bengaluru,Gujarat,UPI,Returned
+1544,470,2026-02-17,Hyderabad,Karnataka,UPI,Cancelled
+1545,1087,2025-02-22,Chennai,UP,COD,Shipped
+1546,359,2025-04-04,Bengaluru,Gujarat,UPI,Delivered
+1547,892,2025-09-19,Delhi,Telangana,Wallet,Cancelled
+1548,873,2025-05-21,Jaipur,West Bengal,COD,Returned
+1549,419,2024-03-20,Bengaluru,Kerala,UPI,Cancelled
+1550,1375,2024-09-09,Ahmedabad,West Bengal,NetBanking,Shipped
+1551,521,2025-05-14,Jaipur,Rajasthan,NetBanking,Shipped
+1552,724,2024-05-09,Kolkata,Karnataka,Wallet,Shipped
+1553,1433,2024-07-09,Lucknow,Maharashtra,UPI,Delivered
+1554,826,2024-11-17,Jaipur,Rajasthan,UPI,Cancelled
+1555,1284,2025-01-22,Kolkata,Maharashtra,UPI,Delivered
+1556,916,2024-04-10,Kolkata,UP,NetBanking,Delivered
+1557,77,2024-11-03,Mumbai,Tamil Nadu,Wallet,Shipped
+1558,1131,2025-08-28,Bengaluru,West Bengal,COD,Delivered
+1559,511,2025-01-06,Bengaluru,Telangana,Card,Delivered
+1560,1251,2024-11-06,Kolkata,Kerala,UPI,Cancelled
+1561,1225,2025-12-12,Lucknow,Rajasthan,Wallet,Returned
+1562,459,2025-12-04,Bengaluru,Gujarat,NetBanking,Returned
+1563,247,2026-01-20,Jaipur,Rajasthan,Wallet,Cancelled
+1564,842,2024-06-02,Jaipur,Karnataka,Card,Shipped
+1565,588,2025-06-29,Mumbai,UP,NetBanking,Cancelled
+1566,478,2024-10-30,Delhi,Telangana,NetBanking,Shipped
+1567,1411,2024-09-21,Kochi,West Bengal,Wallet,Cancelled
+1568,1165,2025-10-07,Bengaluru,West Bengal,NetBanking,Delivered
+1569,1458,2024-04-27,Chennai,Delhi,NetBanking,Shipped
+1570,439,2024-03-16,Lucknow,Maharashtra,Wallet,Returned
+1571,352,2025-08-25,Bengaluru,Karnataka,NetBanking,Delivered
+1572,1354,2024-07-30,Mumbai,Tamil Nadu,UPI,Delivered
+1573,757,2024-10-16,Kolkata,West Bengal,Wallet,Returned
+1574,230,2024-07-18,Bengaluru,UP,UPI,Cancelled
+1575,1041,2025-12-27,Mumbai,Karnataka,Wallet,Returned
+1576,623,2024-11-11,Kochi,Delhi,Card,Delivered
+1577,730,2025-05-26,Kochi,Kerala,Card,Returned
+1578,766,2025-07-22,Lucknow,Maharashtra,Wallet,Shipped
+1579,53,2024-04-22,Chennai,Kerala,UPI,Returned
+1580,656,2025-06-18,Lucknow,Karnataka,Card,Shipped
+1581,1154,2025-03-14,Bengaluru,Tamil Nadu,Wallet,Returned
+1582,1328,2024-05-22,Bengaluru,Delhi,Wallet,Returned
+1583,1210,2026-01-09,Chennai,Delhi,Wallet,Returned
+1584,1034,2025-09-14,Delhi,UP,NetBanking,Returned
+1585,1302,2025-12-30,Mumbai,Tamil Nadu,UPI,Cancelled
+1586,1462,2024-10-10,Bengaluru,Tamil Nadu,UPI,Returned
+1587,727,2024-06-13,Jaipur,Maharashtra,NetBanking,Shipped
+1588,999,2024-08-18,Chennai,Kerala,Wallet,Shipped
+1589,1481,2025-01-25,Jaipur,Telangana,UPI,Returned
+1590,1349,2025-10-05,Jaipur,Delhi,COD,Delivered
+1591,864,2025-10-30,Chennai,West Bengal,NetBanking,Returned
+1592,510,2025-08-31,Chennai,West Bengal,NetBanking,Delivered
+1593,928,2024-11-17,Kochi,Tamil Nadu,Card,Delivered
+1594,24,2025-05-18,Delhi,Kerala,COD,Delivered
+1595,292,2025-03-20,Delhi,Telangana,Wallet,Shipped
+1596,833,2025-11-25,Chennai,Kerala,Wallet,Shipped
+1597,1030,2024-02-19,Kolkata,Gujarat,COD,Returned
+1598,1427,2025-08-17,Kochi,Gujarat,Wallet,Delivered
+1599,282,2025-05-10,Chennai,Rajasthan,NetBanking,Shipped
+1600,912,2025-08-11,Kolkata,West Bengal,UPI,Returned
+1601,1277,2024-03-12,Bengaluru,Karnataka,COD,Delivered
+1602,232,2024-09-25,Kolkata,Gujarat,COD,Shipped
+1603,1464,2024-09-15,Jaipur,Karnataka,Card,Shipped
+1604,1474,2025-06-19,Jaipur,Maharashtra,COD,Shipped
+1605,90,2024-10-30,Chennai,Telangana,Wallet,Delivered
+1606,681,2025-04-04,Mumbai,Delhi,COD,Cancelled
+1607,1015,2024-12-24,Delhi,Tamil Nadu,UPI,Delivered
+1608,652,2025-05-03,Mumbai,Gujarat,COD,Cancelled
+1609,1162,2024-03-18,Jaipur,Rajasthan,UPI,Returned
+1610,134,2025-06-28,Kochi,Delhi,COD,Delivered
+1611,1109,2025-08-31,Mumbai,Rajasthan,NetBanking,Shipped
+1612,557,2024-05-28,Bengaluru,UP,COD,Returned
+1613,215,2025-08-01,Ahmedabad,Telangana,Wallet,Shipped
+1614,1284,2025-03-28,Jaipur,Tamil Nadu,Wallet,Returned
+1615,1359,2025-11-11,Kochi,West Bengal,Card,Returned
+1616,1267,2026-02-01,Kochi,UP,COD,Returned
+1617,640,2025-09-21,Bengaluru,Telangana,COD,Cancelled
+1618,1352,2025-01-05,Mumbai,Karnataka,UPI,Shipped
+1619,1392,2025-10-24,Delhi,Maharashtra,NetBanking,Cancelled
+1620,1428,2024-10-28,Jaipur,Maharashtra,COD,Delivered
+1621,972,2024-05-01,Bengaluru,Rajasthan,UPI,Shipped
+1622,1102,2025-10-21,Kochi,Rajasthan,Card,Returned
+1623,510,2025-01-05,Jaipur,Delhi,UPI,Cancelled
+1624,763,2025-01-19,Kolkata,Maharashtra,NetBanking,Returned
+1625,101,2024-02-26,Mumbai,West Bengal,Wallet,Cancelled
+1626,612,2024-07-07,Kochi,West Bengal,COD,Shipped
+1627,601,2024-04-07,Jaipur,Rajasthan,COD,Returned
+1628,1019,2025-05-05,Jaipur,Maharashtra,COD,Returned
+1629,332,2024-11-13,Mumbai,Tamil Nadu,COD,Returned
+1630,1004,2025-02-25,Lucknow,Telangana,Wallet,Delivered
+1631,923,2025-09-25,Chennai,Telangana,Card,Shipped
+1632,1247,2025-07-21,Mumbai,Rajasthan,Card,Shipped
+1633,529,2025-03-03,Jaipur,Rajasthan,Card,Shipped
+1634,690,2025-04-22,Chennai,Maharashtra,UPI,Returned
+1635,685,2025-11-27,Kolkata,West Bengal,COD,Shipped
+1636,19,2024-04-13,Jaipur,Delhi,Card,Delivered
+1637,312,2024-08-16,Chennai,Delhi,NetBanking,Returned
+1638,1422,2025-06-22,Lucknow,Tamil Nadu,NetBanking,Shipped
+1639,1256,2025-01-07,Bengaluru,Rajasthan,UPI,Delivered
+1640,363,2024-05-09,Chennai,Karnataka,UPI,Cancelled
+1641,515,2025-07-18,Kochi,Kerala,NetBanking,Delivered
+1642,1100,2024-02-25,Mumbai,Karnataka,NetBanking,Returned
+1643,1457,2025-06-25,Lucknow,Kerala,Card,Shipped
+1644,355,2024-05-10,Kolkata,West Bengal,COD,Returned
+1645,560,2024-03-03,Lucknow,Delhi,NetBanking,Cancelled
+1646,1308,2024-08-05,Jaipur,Karnataka,Card,Delivered
+1647,110,2024-08-05,Ahmedabad,Kerala,COD,Shipped
+1648,701,2025-06-23,Ahmedabad,Rajasthan,COD,Returned
+1649,99,2025-08-17,Lucknow,Kerala,COD,Shipped
+1650,543,2025-03-02,Kochi,Delhi,COD,Shipped
+1651,1376,2024-06-24,Kochi,Gujarat,Wallet,Cancelled
+1652,742,2024-11-04,Chennai,Maharashtra,UPI,Returned
+1653,626,2024-11-05,Hyderabad,Tamil Nadu,NetBanking,Cancelled
+1654,404,2024-07-17,Bengaluru,Karnataka,Card,Shipped
+1655,1461,2024-07-25,Lucknow,Tamil Nadu,Wallet,Returned
+1656,1272,2026-01-17,Bengaluru,UP,NetBanking,Returned
+1657,498,2024-09-17,Chennai,Delhi,NetBanking,Shipped
+1658,393,2024-03-21,Kochi,Kerala,NetBanking,Shipped
+1659,973,2024-05-03,Hyderabad,Maharashtra,Wallet,Delivered
+1660,1243,2024-04-27,Jaipur,Gujarat,UPI,Cancelled
+1661,1464,2025-01-20,Ahmedabad,Maharashtra,NetBanking,Shipped
+1662,1473,2025-01-16,Kochi,Kerala,Card,Cancelled
+1663,470,2025-11-19,Hyderabad,Gujarat,COD,Delivered
+1664,1434,2024-03-26,Bengaluru,Kerala,UPI,Returned
+1665,972,2025-05-15,Kochi,Tamil Nadu,Wallet,Delivered
+1666,708,2025-04-29,Delhi,Tamil Nadu,COD,Cancelled
+1667,737,2026-01-05,Chennai,Tamil Nadu,NetBanking,Delivered
+1668,431,2025-08-16,Kochi,Telangana,UPI,Returned
+1669,1269,2025-10-28,Ahmedabad,UP,Wallet,Delivered
+1670,1315,2024-03-05,Hyderabad,Gujarat,Wallet,Delivered
+1671,1100,2024-07-18,Lucknow,Kerala,Wallet,Cancelled
+1672,791,2025-08-23,Kolkata,West Bengal,Wallet,Returned
+1673,1081,2025-10-11,Kochi,Delhi,Wallet,Delivered
+1674,645,2024-12-28,Lucknow,West Bengal,Card,Returned
+1675,562,2024-06-05,Lucknow,Delhi,COD,Returned
+1676,75,2024-10-14,Bengaluru,West Bengal,Wallet,Returned
+1677,518,2026-02-15,Delhi,Tamil Nadu,Card,Shipped
+1678,1329,2025-09-11,Ahmedabad,West Bengal,NetBanking,Shipped
+1679,483,2025-08-05,Ahmedabad,West Bengal,UPI,Shipped
+1680,1324,2024-06-13,Kochi,UP,UPI,Returned
+1681,1161,2024-07-28,Ahmedabad,Delhi,Wallet,Delivered
+1682,1184,2026-02-16,Kochi,Gujarat,Card,Shipped
+1683,92,2024-06-22,Bengaluru,Maharashtra,Card,Shipped
+1684,5,2024-08-16,Mumbai,Karnataka,Wallet,Returned
+1685,889,2025-06-05,Jaipur,Karnataka,UPI,Delivered
+1686,1294,2025-07-23,Kolkata,Kerala,NetBanking,Returned
+1687,23,2024-06-22,Kochi,Karnataka,COD,Shipped
+1688,786,2025-03-06,Bengaluru,Tamil Nadu,UPI,Shipped
+1689,593,2025-09-07,Hyderabad,Gujarat,UPI,Delivered
+1690,566,2025-06-27,Jaipur,Kerala,Card,Shipped
+1691,634,2025-01-06,Jaipur,West Bengal,COD,Delivered
+1692,8,2024-03-25,Ahmedabad,Maharashtra,NetBanking,Returned
+1693,8,2024-08-23,Hyderabad,Tamil Nadu,COD,Returned
+1694,153,2025-05-12,Hyderabad,Maharashtra,UPI,Returned
+1695,1369,2025-05-07,Jaipur,Rajasthan,COD,Delivered
+1696,27,2024-05-04,Jaipur,Telangana,COD,Delivered
+1697,185,2026-02-13,Ahmedabad,Tamil Nadu,UPI,Returned
+1698,664,2025-08-26,Bengaluru,Rajasthan,Wallet,Cancelled
+1699,962,2025-11-13,Mumbai,Kerala,Wallet,Delivered
+1700,1151,2025-03-01,Ahmedabad,Rajasthan,NetBanking,Shipped
+1701,1135,2024-12-16,Delhi,Rajasthan,Wallet,Returned
+1702,796,2024-07-31,Kolkata,UP,UPI,Shipped
+1703,888,2025-08-24,Kochi,Kerala,Wallet,Delivered
+1704,1084,2025-06-16,Lucknow,West Bengal,UPI,Cancelled
+1705,760,2024-03-21,Kolkata,Rajasthan,Card,Cancelled
+1706,159,2025-05-28,Kolkata,UP,NetBanking,Delivered
+1707,1218,2026-01-28,Ahmedabad,Delhi,UPI,Delivered
+1708,884,2024-07-03,Hyderabad,UP,Wallet,Shipped
+1709,31,2025-03-14,Chennai,Karnataka,Wallet,Delivered
+1710,755,2025-09-26,Delhi,Karnataka,NetBanking,Cancelled
+1711,1046,2025-01-27,Hyderabad,Karnataka,NetBanking,Returned
+1712,596,2025-05-31,Bengaluru,Delhi,NetBanking,Cancelled
+1713,1234,2025-03-19,Delhi,Karnataka,UPI,Shipped
+1714,189,2024-12-02,Kolkata,West Bengal,NetBanking,Shipped
+1715,546,2025-05-10,Delhi,Delhi,Card,Returned
+1716,1050,2025-01-26,Kolkata,Karnataka,NetBanking,Delivered
+1717,542,2026-02-12,Hyderabad,Tamil Nadu,Card,Delivered
+1718,710,2025-09-07,Chennai,Telangana,NetBanking,Delivered
+1719,892,2025-01-10,Kochi,Delhi,UPI,Shipped
+1720,752,2024-06-27,Lucknow,Maharashtra,Wallet,Delivered
+1721,130,2024-04-09,Jaipur,Gujarat,COD,Returned
+1722,109,2024-11-26,Lucknow,Delhi,Card,Shipped
+1723,963,2024-11-30,Delhi,Kerala,Card,Cancelled
+1724,11,2024-12-01,Mumbai,Karnataka,NetBanking,Shipped
+1725,1411,2024-08-01,Chennai,UP,Card,Delivered
+1726,860,2024-07-07,Bengaluru,Rajasthan,Wallet,Cancelled
+1727,987,2024-02-25,Bengaluru,Maharashtra,COD,Delivered
+1728,238,2024-05-22,Kolkata,Telangana,UPI,Shipped
+1729,224,2025-06-07,Bengaluru,Telangana,Card,Returned
+1730,90,2024-05-11,Hyderabad,Gujarat,NetBanking,Delivered
+1731,279,2025-09-24,Ahmedabad,Maharashtra,UPI,Returned
+1732,882,2024-05-01,Kolkata,Telangana,UPI,Delivered
+1733,526,2025-06-28,Bengaluru,Kerala,Wallet,Cancelled
+1734,1457,2025-09-16,Hyderabad,Tamil Nadu,Card,Shipped
+1735,1069,2025-09-22,Lucknow,Rajasthan,Wallet,Shipped
+1736,706,2025-04-16,Delhi,West Bengal,COD,Cancelled
+1737,237,2025-06-16,Jaipur,Karnataka,Wallet,Shipped
+1738,415,2025-06-18,Chennai,Kerala,UPI,Shipped
+1739,73,2024-05-01,Chennai,Telangana,UPI,Shipped
+1740,1150,2025-02-13,Kolkata,Rajasthan,Card,Shipped
+1741,960,2024-04-29,Chennai,Gujarat,COD,Returned
+1742,1074,2024-11-07,Ahmedabad,Telangana,Card,Returned
+1743,124,2025-08-14,Jaipur,Tamil Nadu,Wallet,Returned
+1744,880,2024-03-29,Lucknow,Gujarat,Wallet,Shipped
+1745,614,2024-11-02,Kochi,Kerala,Card,Cancelled
+1746,652,2024-08-18,Ahmedabad,Rajasthan,COD,Returned
+1747,1107,2024-07-09,Mumbai,Telangana,COD,Delivered
+1748,910,2025-05-20,Chennai,Maharashtra,NetBanking,Cancelled
+1749,1270,2025-05-23,Hyderabad,Telangana,UPI,Cancelled
+1750,327,2025-03-31,Ahmedabad,West Bengal,Card,Delivered
+1751,70,2025-10-19,Kochi,Telangana,COD,Delivered
+1752,1011,2024-04-02,Chennai,Maharashtra,Wallet,Delivered
+1753,205,2024-10-15,Bengaluru,Karnataka,NetBanking,Returned
+1754,1231,2024-05-26,Mumbai,Delhi,COD,Cancelled
+1755,912,2026-02-09,Jaipur,Maharashtra,Card,Shipped
+1756,49,2025-11-29,Jaipur,West Bengal,COD,Shipped
+1757,549,2025-01-06,Bengaluru,Delhi,UPI,Delivered
+1758,277,2026-01-01,Delhi,UP,COD,Cancelled
+1759,22,2024-04-19,Delhi,Rajasthan,UPI,Delivered
+1760,228,2025-01-11,Hyderabad,Gujarat,Card,Cancelled
+1761,1406,2025-12-20,Kolkata,Tamil Nadu,NetBanking,Cancelled
+1762,898,2024-03-22,Chennai,Maharashtra,NetBanking,Delivered
+1763,1443,2025-05-17,Ahmedabad,Delhi,NetBanking,Delivered
+1764,1451,2025-02-15,Kolkata,Telangana,UPI,Shipped
+1765,135,2026-01-01,Mumbai,Maharashtra,NetBanking,Cancelled
+1766,1274,2026-01-12,Ahmedabad,Tamil Nadu,UPI,Shipped
+1767,1186,2026-01-25,Bengaluru,Maharashtra,COD,Cancelled
+1768,65,2024-06-27,Ahmedabad,Rajasthan,UPI,Cancelled
+1769,148,2024-04-24,Kochi,Tamil Nadu,Wallet,Delivered
+1770,1340,2024-10-02,Hyderabad,West Bengal,Wallet,Shipped
+1771,736,2025-08-30,Hyderabad,Gujarat,COD,Cancelled
+1772,94,2024-07-18,Hyderabad,Rajasthan,UPI,Delivered
+1773,835,2024-04-19,Lucknow,West Bengal,Wallet,Delivered
+1774,40,2025-12-09,Jaipur,West Bengal,NetBanking,Delivered
+1775,1120,2024-05-04,Jaipur,UP,NetBanking,Cancelled
+1776,1425,2024-04-04,Ahmedabad,UP,Wallet,Cancelled
+1777,1394,2026-01-30,Delhi,Gujarat,Card,Cancelled
+1778,1190,2024-12-29,Hyderabad,Gujarat,UPI,Delivered
+1779,1006,2025-03-27,Lucknow,Rajasthan,Card,Cancelled
+1780,17,2025-01-19,Ahmedabad,Delhi,COD,Delivered
+1781,1011,2024-05-03,Ahmedabad,Rajasthan,COD,Cancelled
+1782,802,2024-07-01,Delhi,Tamil Nadu,UPI,Returned
+1783,522,2025-08-22,Delhi,West Bengal,UPI,Shipped
+1784,1173,2025-12-27,Delhi,Gujarat,Card,Cancelled
+1785,196,2025-01-22,Bengaluru,Maharashtra,UPI,Delivered
+1786,864,2025-12-08,Mumbai,Telangana,Card,Delivered
+1787,1108,2025-12-02,Kochi,Rajasthan,Wallet,Cancelled
+1788,29,2024-10-24,Delhi,Karnataka,UPI,Returned
+1789,910,2025-03-27,Ahmedabad,Delhi,Wallet,Delivered
+1790,1390,2024-12-03,Hyderabad,UP,COD,Returned
+1791,1159,2025-01-15,Delhi,Karnataka,Card,Returned
+1792,344,2025-01-03,Jaipur,Maharashtra,Card,Shipped
+1793,1375,2025-04-23,Delhi,Maharashtra,Card,Returned
+1794,725,2025-03-03,Kochi,Delhi,UPI,Cancelled
+1795,949,2025-06-06,Mumbai,West Bengal,Card,Delivered
+1796,235,2025-05-19,Bengaluru,Telangana,Card,Shipped
+1797,1128,2026-02-18,Mumbai,Delhi,Card,Returned
+1798,345,2026-02-05,Bengaluru,West Bengal,Card,Delivered
+1799,1075,2025-02-14,Bengaluru,Kerala,Wallet,Returned
+1800,1406,2024-02-23,Hyderabad,West Bengal,UPI,Returned
+1801,230,2024-06-06,Kochi,Rajasthan,Card,Cancelled
+1802,1127,2025-01-24,Kochi,Karnataka,Wallet,Cancelled
+1803,950,2025-09-23,Lucknow,Delhi,UPI,Returned
+1804,1059,2025-09-10,Mumbai,Maharashtra,COD,Shipped
+1805,1096,2025-06-23,Kolkata,Gujarat,UPI,Returned
+1806,317,2025-11-03,Kochi,West Bengal,NetBanking,Shipped
+1807,566,2025-07-24,Hyderabad,Tamil Nadu,UPI,Delivered
+1808,283,2025-07-29,Delhi,UP,Card,Delivered
+1809,364,2024-04-14,Kochi,Gujarat,Wallet,Cancelled
+1810,262,2025-08-21,Ahmedabad,Delhi,Card,Delivered
+1811,182,2024-11-03,Chennai,Tamil Nadu,NetBanking,Cancelled
+1812,433,2025-12-20,Delhi,Kerala,UPI,Delivered
+1813,738,2025-04-25,Kolkata,West Bengal,Card,Delivered
+1814,260,2026-01-08,Mumbai,Delhi,UPI,Shipped
+1815,568,2024-04-10,Delhi,Gujarat,Card,Shipped
+1816,1020,2025-05-13,Hyderabad,Delhi,UPI,Shipped
+1817,1471,2025-03-06,Ahmedabad,Maharashtra,Card,Delivered
+1818,688,2025-04-21,Mumbai,Rajasthan,COD,Returned
+1819,6,2024-09-07,Mumbai,Telangana,Wallet,Shipped
+1820,936,2025-05-14,Lucknow,Telangana,NetBanking,Delivered
+1821,1101,2025-11-05,Ahmedabad,Delhi,UPI,Delivered
+1822,332,2025-12-17,Kolkata,Karnataka,NetBanking,Delivered
+1823,612,2025-06-13,Jaipur,West Bengal,UPI,Shipped
+1824,1088,2025-10-07,Ahmedabad,Karnataka,UPI,Cancelled
+1825,1109,2024-10-29,Chennai,Karnataka,Wallet,Returned
+1826,333,2025-03-26,Delhi,West Bengal,UPI,Shipped
+1827,860,2024-06-19,Lucknow,Maharashtra,Wallet,Delivered
+1828,832,2025-02-28,Kochi,Telangana,NetBanking,Returned
+1829,84,2025-06-04,Jaipur,Gujarat,NetBanking,Shipped
+1830,1169,2024-05-15,Kochi,Rajasthan,COD,Cancelled
+1831,621,2024-04-20,Kolkata,Tamil Nadu,COD,Cancelled
+1832,75,2025-12-21,Lucknow,Rajasthan,NetBanking,Shipped
+1833,628,2026-01-20,Kolkata,Gujarat,Card,Returned
+1834,18,2025-02-05,Chennai,West Bengal,NetBanking,Shipped
+1835,389,2025-05-28,Delhi,Delhi,NetBanking,Shipped
+1836,241,2025-05-08,Bengaluru,Tamil Nadu,Card,Cancelled
+1837,842,2024-09-27,Delhi,Telangana,Wallet,Cancelled
+1838,1380,2024-11-17,Delhi,Karnataka,Wallet,Delivered
+1839,1010,2025-08-18,Kolkata,West Bengal,UPI,Returned
+1840,1310,2024-07-19,Ahmedabad,Tamil Nadu,UPI,Returned
+1841,452,2024-11-14,Ahmedabad,Kerala,COD,Shipped
+1842,1475,2024-07-05,Chennai,UP,Card,Cancelled
+1843,118,2026-01-01,Hyderabad,Kerala,Card,Shipped
+1844,534,2024-10-27,Ahmedabad,Maharashtra,Card,Delivered
+1845,1447,2024-05-09,Hyderabad,Kerala,NetBanking,Returned
+1846,766,2024-03-18,Chennai,Telangana,NetBanking,Returned
+1847,1155,2026-01-25,Chennai,UP,COD,Returned
+1848,1202,2025-04-05,Chennai,Telangana,Card,Cancelled
+1849,895,2024-10-21,Hyderabad,West Bengal,NetBanking,Cancelled
+1850,792,2025-03-27,Kolkata,Kerala,NetBanking,Delivered
+1851,428,2025-05-05,Chennai,Delhi,UPI,Shipped
+1852,585,2025-02-04,Hyderabad,Maharashtra,Wallet,Delivered
+1853,681,2025-09-27,Kolkata,Tamil Nadu,Wallet,Delivered
+1854,380,2025-02-02,Jaipur,West Bengal,Card,Cancelled
+1855,1180,2025-03-05,Jaipur,Rajasthan,COD,Returned
+1856,232,2024-08-23,Ahmedabad,Maharashtra,NetBanking,Cancelled
+1857,491,2024-07-07,Hyderabad,West Bengal,UPI,Cancelled
+1858,789,2024-08-22,Bengaluru,Tamil Nadu,UPI,Cancelled
+1859,1116,2025-12-16,Kolkata,Gujarat,Card,Shipped
+1860,239,2025-04-19,Chennai,Telangana,COD,Shipped
+1861,928,2024-04-16,Kolkata,Rajasthan,Card,Returned
+1862,214,2024-10-07,Mumbai,Maharashtra,Wallet,Delivered
+1863,1088,2025-07-10,Hyderabad,Delhi,Card,Delivered
+1864,755,2024-05-10,Kochi,UP,UPI,Cancelled
+1865,321,2025-01-09,Ahmedabad,Telangana,COD,Shipped
+1866,1036,2025-05-07,Lucknow,Tamil Nadu,COD,Returned
+1867,231,2024-04-08,Lucknow,Gujarat,Card,Delivered
+1868,1084,2026-01-27,Jaipur,Telangana,Card,Shipped
+1869,948,2025-05-19,Lucknow,Delhi,Wallet,Returned
+1870,1397,2025-04-03,Hyderabad,Rajasthan,Card,Shipped
+1871,7,2025-06-12,Bengaluru,Tamil Nadu,UPI,Delivered
+1872,1435,2025-11-24,Hyderabad,Delhi,NetBanking,Delivered
+1873,753,2024-03-15,Hyderabad,Kerala,UPI,Delivered
+1874,312,2024-03-15,Lucknow,Delhi,Card,Delivered
+1875,382,2024-12-31,Hyderabad,UP,Card,Delivered
+1876,55,2025-04-29,Kolkata,Tamil Nadu,Card,Delivered
+1877,816,2024-09-28,Kochi,Karnataka,NetBanking,Shipped
+1878,407,2024-03-25,Bengaluru,Gujarat,NetBanking,Cancelled
+1879,1453,2025-02-12,Delhi,Kerala,NetBanking,Shipped
+1880,1231,2024-03-17,Delhi,West Bengal,NetBanking,Shipped
+1881,262,2025-02-05,Hyderabad,West Bengal,COD,Shipped
+1882,304,2024-10-16,Delhi,Delhi,NetBanking,Shipped
+1883,1262,2026-02-04,Ahmedabad,Kerala,Wallet,Shipped
+1884,589,2024-02-20,Hyderabad,UP,Card,Cancelled
+1885,265,2024-10-06,Ahmedabad,Rajasthan,NetBanking,Delivered
+1886,717,2025-07-22,Mumbai,UP,NetBanking,Delivered
+1887,1129,2024-04-09,Lucknow,Maharashtra,Wallet,Shipped
+1888,1244,2025-03-23,Lucknow,Karnataka,Wallet,Shipped
+1889,781,2024-09-10,Mumbai,Karnataka,UPI,Returned
+1890,320,2024-06-25,Jaipur,Karnataka,COD,Shipped
+1891,1389,2025-09-12,Kochi,Delhi,UPI,Returned
+1892,1291,2026-01-01,Jaipur,Tamil Nadu,Wallet,Cancelled
+1893,980,2025-04-06,Ahmedabad,Telangana,NetBanking,Cancelled
+1894,298,2024-07-02,Ahmedabad,Gujarat,Card,Shipped
+1895,1459,2024-08-02,Kochi,Maharashtra,UPI,Cancelled
+1896,316,2024-11-04,Hyderabad,Kerala,Wallet,Shipped
+1897,1404,2025-12-30,Delhi,Delhi,COD,Returned
+1898,773,2024-04-17,Delhi,West Bengal,COD,Shipped
+1899,1344,2025-03-05,Mumbai,Rajasthan,Card,Returned
+1900,137,2024-10-26,Bengaluru,Kerala,UPI,Cancelled
+1901,1401,2025-03-31,Lucknow,Tamil Nadu,UPI,Shipped
+1902,995,2024-02-25,Hyderabad,Gujarat,Wallet,Cancelled
+1903,1338,2024-06-22,Kochi,Telangana,Card,Delivered
+1904,147,2025-12-25,Ahmedabad,Rajasthan,Card,Returned
+1905,118,2025-12-26,Kochi,Tamil Nadu,NetBanking,Shipped
+1906,1475,2025-09-25,Lucknow,Telangana,NetBanking,Delivered
+1907,1497,2025-01-05,Chennai,UP,UPI,Cancelled
+1908,515,2025-01-10,Kolkata,Karnataka,Card,Delivered
+1909,178,2025-03-02,Jaipur,Tamil Nadu,UPI,Delivered
+1910,1379,2025-09-20,Hyderabad,Telangana,NetBanking,Cancelled
+1911,1167,2024-03-07,Bengaluru,West Bengal,NetBanking,Shipped
+1912,658,2025-10-16,Lucknow,Kerala,NetBanking,Cancelled
+1913,124,2024-08-26,Lucknow,Maharashtra,Card,Delivered
+1914,346,2024-11-04,Jaipur,Delhi,UPI,Delivered
+1915,1336,2025-11-17,Lucknow,Karnataka,Card,Delivered
+1916,630,2024-07-21,Bengaluru,Gujarat,Wallet,Shipped
+1917,1271,2025-05-04,Jaipur,UP,Wallet,Returned
+1918,75,2025-04-09,Kolkata,Kerala,NetBanking,Shipped
+1919,338,2024-05-04,Jaipur,UP,NetBanking,Shipped
+1920,1233,2024-05-10,Delhi,Delhi,NetBanking,Returned
+1921,58,2026-01-10,Lucknow,Telangana,Wallet,Returned
+1922,1116,2025-12-14,Jaipur,Telangana,Card,Shipped
+1923,1403,2025-11-26,Kolkata,Tamil Nadu,Card,Delivered
+1924,188,2025-10-28,Jaipur,Telangana,COD,Shipped
+1925,1050,2024-03-21,Kolkata,Telangana,Card,Shipped
+1926,297,2024-06-25,Mumbai,Delhi,UPI,Delivered
+1927,49,2025-02-13,Hyderabad,UP,NetBanking,Cancelled
+1928,1154,2024-12-04,Lucknow,Tamil Nadu,NetBanking,Delivered
+1929,103,2026-02-16,Mumbai,Delhi,NetBanking,Returned
+1930,628,2025-03-30,Chennai,Kerala,NetBanking,Returned
+1931,610,2025-04-04,Kolkata,UP,Wallet,Returned
+1932,183,2024-12-31,Jaipur,Gujarat,NetBanking,Cancelled
+1933,1415,2025-04-30,Mumbai,Tamil Nadu,COD,Delivered
+1934,833,2024-03-13,Ahmedabad,Telangana,COD,Shipped
+1935,408,2025-06-14,Mumbai,West Bengal,NetBanking,Cancelled
+1936,874,2025-09-19,Kolkata,Delhi,NetBanking,Returned
+1937,226,2024-05-09,Kolkata,Telangana,Card,Returned
+1938,658,2024-10-04,Ahmedabad,Maharashtra,COD,Returned
+1939,368,2024-02-27,Hyderabad,Telangana,UPI,Shipped
+1940,330,2025-08-13,Lucknow,Rajasthan,Card,Returned
+1941,481,2024-12-21,Bengaluru,Telangana,Wallet,Cancelled
+1942,1272,2025-08-09,Kochi,West Bengal,COD,Returned
+1943,577,2025-02-10,Jaipur,Rajasthan,Card,Cancelled
+1944,537,2025-01-22,Chennai,Gujarat,COD,Cancelled
+1945,626,2024-05-03,Kolkata,Karnataka,NetBanking,Shipped
+1946,497,2025-11-02,Chennai,Tamil Nadu,Wallet,Returned
+1947,464,2024-12-06,Kolkata,Tamil Nadu,NetBanking,Cancelled
+1948,1077,2024-03-07,Kochi,Delhi,Card,Shipped
+1949,1216,2024-04-07,Hyderabad,Kerala,NetBanking,Shipped
+1950,1481,2025-10-30,Lucknow,Gujarat,Wallet,Cancelled
+1951,511,2024-05-31,Delhi,Karnataka,UPI,Returned
+1952,126,2024-06-30,Delhi,Karnataka,NetBanking,Delivered
+1953,670,2025-06-23,Chennai,Kerala,COD,Shipped
+1954,1291,2024-12-08,Jaipur,Telangana,COD,Returned
+1955,271,2025-10-10,Delhi,Maharashtra,Card,Delivered
+1956,619,2024-04-02,Chennai,West Bengal,NetBanking,Cancelled
+1957,132,2025-03-15,Delhi,West Bengal,Card,Delivered
+1958,290,2024-03-18,Hyderabad,Karnataka,Card,Delivered
+1959,946,2024-09-14,Hyderabad,Rajasthan,COD,Returned
+1960,678,2024-08-31,Kolkata,Telangana,NetBanking,Delivered
+1961,882,2025-09-09,Bengaluru,West Bengal,Wallet,Shipped
+1962,535,2024-04-29,Hyderabad,Kerala,COD,Shipped
+1963,1425,2024-11-10,Hyderabad,Rajasthan,NetBanking,Shipped
+1964,149,2024-05-15,Ahmedabad,Kerala,Wallet,Cancelled
+1965,420,2024-04-08,Chennai,Delhi,Card,Returned
+1966,1374,2024-07-29,Delhi,Maharashtra,Card,Shipped
+1967,937,2025-01-01,Chennai,Delhi,COD,Returned
+1968,1344,2024-09-18,Bengaluru,Maharashtra,COD,Shipped
+1969,924,2025-12-29,Kolkata,Rajasthan,Wallet,Returned
+1970,58,2025-08-25,Mumbai,Kerala,COD,Shipped
+1971,575,2025-09-23,Jaipur,West Bengal,UPI,Shipped
+1972,184,2025-12-19,Lucknow,UP,COD,Delivered
+1973,540,2025-06-09,Ahmedabad,Maharashtra,COD,Shipped
+1974,120,2025-01-10,Delhi,Gujarat,Wallet,Cancelled
+1975,335,2024-04-07,Delhi,Kerala,Wallet,Cancelled
+1976,801,2025-04-26,Hyderabad,Delhi,NetBanking,Cancelled
+1977,408,2024-07-31,Ahmedabad,Delhi,Wallet,Shipped
+1978,479,2025-11-18,Mumbai,Delhi,UPI,Shipped
+1979,822,2025-01-22,Kolkata,Karnataka,Card,Shipped
+1980,471,2024-02-29,Mumbai,Gujarat,Card,Cancelled
+1981,960,2025-04-12,Lucknow,Karnataka,UPI,Returned
+1982,748,2025-05-31,Mumbai,UP,NetBanking,Shipped
+1983,1249,2025-06-22,Kolkata,Telangana,COD,Shipped
+1984,356,2024-04-17,Chennai,Telangana,Card,Delivered
+1985,355,2024-05-09,Ahmedabad,West Bengal,Wallet,Cancelled
+1986,350,2025-07-02,Ahmedabad,Maharashtra,Card,Cancelled
+1987,96,2024-07-02,Delhi,Kerala,COD,Returned
+1988,1191,2024-04-28,Mumbai,Karnataka,NetBanking,Shipped
+1989,1356,2024-08-04,Delhi,Tamil Nadu,UPI,Cancelled
+1990,900,2024-04-18,Jaipur,Tamil Nadu,Wallet,Returned
+1991,976,2024-06-02,Lucknow,Telangana,COD,Returned
+1992,1275,2024-06-06,Kolkata,Delhi,COD,Delivered
+1993,737,2025-03-20,Kochi,Gujarat,Wallet,Returned
+1994,1388,2024-07-25,Lucknow,Delhi,COD,Delivered
+1995,319,2024-08-21,Hyderabad,West Bengal,UPI,Cancelled
+1996,808,2025-03-19,Kochi,Tamil Nadu,COD,Shipped
+1997,995,2024-10-29,Ahmedabad,Gujarat,NetBanking,Delivered
+1998,205,2024-08-27,Delhi,Karnataka,UPI,Delivered
+1999,1088,2024-06-20,Lucknow,Kerala,UPI,Shipped
+2000,710,2026-02-01,Kochi,Rajasthan,Wallet,Delivered

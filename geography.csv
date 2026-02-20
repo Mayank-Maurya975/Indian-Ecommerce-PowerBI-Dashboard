@@ -1,0 +1,101 @@
+GeoID,State,City,Zone
+1,Maharashtra,Mumbai,West
+2,Maharashtra,Bengaluru,East
+3,Maharashtra,Delhi,North
+4,Maharashtra,Ahmedabad,East
+5,Maharashtra,Chennai,East
+6,Maharashtra,Hyderabad,West
+7,Maharashtra,Jaipur,North
+8,Maharashtra,Lucknow,East
+9,Maharashtra,Kochi,South
+10,Maharashtra,Kolkata,North
+11,Karnataka,Mumbai,East
+12,Karnataka,Bengaluru,West
+13,Karnataka,Delhi,North
+14,Karnataka,Ahmedabad,South
+15,Karnataka,Chennai,West
+16,Karnataka,Hyderabad,North
+17,Karnataka,Jaipur,South
+18,Karnataka,Lucknow,West
+19,Karnataka,Kochi,West
+20,Karnataka,Kolkata,East
+21,Delhi,Mumbai,East
+22,Delhi,Bengaluru,North
+23,Delhi,Delhi,South
+24,Delhi,Ahmedabad,North
+25,Delhi,Chennai,North
+26,Delhi,Hyderabad,East
+27,Delhi,Jaipur,North
+28,Delhi,Lucknow,North
+29,Delhi,Kochi,East
+30,Delhi,Kolkata,West
+31,Gujarat,Mumbai,East
+32,Gujarat,Bengaluru,East
+33,Gujarat,Delhi,West
+34,Gujarat,Ahmedabad,South
+35,Gujarat,Chennai,North
+36,Gujarat,Hyderabad,East
+37,Gujarat,Jaipur,South
+38,Gujarat,Lucknow,West
+39,Gujarat,Kochi,East
+40,Gujarat,Kolkata,North
+41,Tamil Nadu,Mumbai,West
+42,Tamil Nadu,Bengaluru,South
+43,Tamil Nadu,Delhi,South
+44,Tamil Nadu,Ahmedabad,East
+45,Tamil Nadu,Chennai,North
+46,Tamil Nadu,Hyderabad,West
+47,Tamil Nadu,Jaipur,South
+48,Tamil Nadu,Lucknow,East
+49,Tamil Nadu,Kochi,East
+50,Tamil Nadu,Kolkata,South
+51,Telangana,Mumbai,South
+52,Telangana,Bengaluru,North
+53,Telangana,Delhi,East
+54,Telangana,Ahmedabad,South
+55,Telangana,Chennai,East
+56,Telangana,Hyderabad,North
+57,Telangana,Jaipur,East
+58,Telangana,Lucknow,East
+59,Telangana,Kochi,North
+60,Telangana,Kolkata,North
+61,Rajasthan,Mumbai,South
+62,Rajasthan,Bengaluru,East
+63,Rajasthan,Delhi,South
+64,Rajasthan,Ahmedabad,East
+65,Rajasthan,Chennai,West
+66,Rajasthan,Hyderabad,North
+67,Rajasthan,Jaipur,North
+68,Rajasthan,Lucknow,West
+69,Rajasthan,Kochi,West
+70,Rajasthan,Kolkata,East
+71,UP,Mumbai,North
+72,UP,Bengaluru,East
+73,UP,Delhi,North
+74,UP,Ahmedabad,South
+75,UP,Chennai,North
+76,UP,Hyderabad,East
+77,UP,Jaipur,North
+78,UP,Lucknow,North
+79,UP,Kochi,East
+80,UP,Kolkata,North
+81,Kerala,Mumbai,East
+82,Kerala,Bengaluru,North
+83,Kerala,Delhi,South
+84,Kerala,Ahmedabad,North
+85,Kerala,Chennai,North
+86,Kerala,Hyderabad,West
+87,Kerala,Jaipur,East
+88,Kerala,Lucknow,North
+89,Kerala,Kochi,East
+90,Kerala,Kolkata,East
+91,West Bengal,Mumbai,North
+92,West Bengal,Bengaluru,East
+93,West Bengal,Delhi,West
+94,West Bengal,Ahmedabad,South
+95,West Bengal,Chennai,South
+96,West Bengal,Hyderabad,South
+97,West Bengal,Jaipur,West
+98,West Bengal,Lucknow,West
+99,West Bengal,Kochi,South
+100,West Bengal,Kolkata,West
